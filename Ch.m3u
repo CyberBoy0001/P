@@ -325,21 +325,15 @@ http://online-video.rbc.ru/online/rbctv_480p/index.m3u8
 #EXTINF:-1 ,Тео ТВ
 http://82.138.2.50:1935/live/TeoTV.stream_720p/playlist.m3u8
 #EXTINF:-1,Nickelodeon HD
-http://5.130.15.187:81/udp/239.1.17.9:1234
-#EXTINF:-1,Nickelodeon HD
-http://212.66.60.4:8000/play/a09c
-#EXTINF:-1,Nickelodeon HD
-http://persik.by/stream/6738/318852/10420.m3u8
+http://185.220.35.73:8080/d8dab5d8122e05867dfeeb7eb31b8f89/video.m3u8?token=tlcftyrlbn
 #EXTINF:-1,Nickelodeon
-http://persik.by/stream/6738/318852/45.m3u8
+http://176.51.196.8:1234/udp/233.7.70.52:5000
 #EXTINF:-1,Nickelodeon
 http://212.66.60.4:8000/play/a0by
 #EXTINF:-1,Nickelodeon
 http://95.191.248.38:1234/udp/233.7.70.52:5000
 #EXTINF:-1,Nickelodeon
 http://176.51.225.209:1234/udp/233.7.70.52:5000
-#EXTINF:-1,Nick Jr.
-http://185.245.187.150:80/NickJr/index.m3u8
 #EXTINF:-1,Nick Jr.
 http://188.168.23.240:81/udp/233.12.144.85:5050
 #EXTINF:-1,Cartoon Network
