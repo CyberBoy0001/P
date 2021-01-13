@@ -47,8 +47,8 @@ http://live02-cdn.tv.ti.ru:80/dtv/id119_NBN_SG--tnt/03/plst.m3u8
 http://188.93.95.83/rentv/index.m3u8
 #EXTINF:-1,TLC
 http://212.66.60.4:8000/play/a02a
-#EXTINF:-1,TLC HD
-http://185.245.187.150:80/TLCHD/index.m3u8
+#EXTINF:-1,TLC
+http://176.110.234.199:34040/udp/238.1.1.26:1234
 #EXTINF:-1,TV1000 HD
 http://spacetv.in/stream/IFBYIR5OA7/110.m3u8
 #EXTINF:-1,TV1000
@@ -334,6 +334,8 @@ http://212.66.60.4:8000/play/a0by
 http://95.191.248.38:1234/udp/233.7.70.52:5000
 #EXTINF:-1,Nickelodeon
 http://176.51.225.209:1234/udp/233.7.70.52:5000
+#EXTINF:-1,Nick Jr.
+http://109.248.95.107:40222/udp/239.195.1.49:1234
 #EXTINF:-1,Nick Jr.
 http://188.168.23.240:81/udp/233.12.144.85:5050
 #EXTINF:-1,Cartoon Network
