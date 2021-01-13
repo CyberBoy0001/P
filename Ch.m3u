@@ -121,6 +121,7 @@ https://cdnnow.goodgame.ru/hls/181070.m3u8
 Страшное HD
 Шокирующее HD
 
+
 #EXTINF:-1,VIP HORROR HD
 http://cdnnow.goodgame.ru/hls/178234.m3u8
 #EXTINF:-1,Остросюжетное HD
@@ -166,6 +167,8 @@ http://188.93.95.83/eurokino/index.m3u8
 http://188.93.95.83/eurokino/index.m3u8
 #EXTINF:-1,Sony Turbo
 http://live02-cdn.tv.ti.ru:80/dtv/id157_NBN_SG--SonyTurbo/02/plst.m3u8
+#EXTINF:-1,DieselBoy HD
+http://cdnnow.goodgame.ru/hls/179450.m3u8
 #EXTINF:-1,Иллюзион+
 http://live02-cdn.tv.ti.ru:80/dtv/id206_NBN_SG--IllusionPlus/03/plst.m3u8
 #EXTINF:-1,Иллюзион+
