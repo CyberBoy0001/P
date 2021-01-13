@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1,Nickelodeon HD
+http://5.130.15.187:81/udp/239.1.17.9:1234
+#EXTINF:-1,Nickelodeon HD
+http://212.66.60.4:8000/play/a09c
+#EXTINF:-1,Nickelodeon HD
+http://persik.by/stream/6738/318852/10420.m3u8
+#EXTINF:-1,Nickelodeon
+http://persik.by/stream/6738/318852/45.m3u8
+#EXTINF:-1,Nickelodeon
+http://212.66.60.4:8000/play/a0by
+#EXTINF:-1,Nickelodeon
+http://95.191.248.38:1234/udp/233.7.70.52:5000
+#EXTINF:-1,Nickelodeon
+http://176.51.225.209:1234/udp/233.7.70.52:5000
+#EXTINF:-1,Nick Jr.
+http://185.245.187.150:80/NickJr/index.m3u8
+#EXTINF:-1,Nick Jr.
+http://188.168.23.240:81/udp/233.12.144.85:5050
+#EXTINF:-1,Cartoon Network
+http://51.68.141.106:8081/tv/cartoon-network/playlist.m3u8
+#EXTINF:-1 ,Cartoon network
+http://persik.by/stream/6738/318852/54.m3u8
+#EXTINF:-1 ,Cartoon network
+http://persik.by/stream/6738/318852/32.m3u8
+#EXTINF:-1 ,Cartoon network
+http://persik.by/stream/6738/318852/805.m3u8
+#EXTINF:-1,Disney
+http://212.66.60.4:8000/play/a058
+#EXTINF:-1,Da Vinci Kids
+http://188.93.95.83/davinci/index.m3u8
+#EXTINF:-1,Da Vinchi Kids
+https://sc.id-tv.kz/DaVinci_34_35.m3u8
+#EXTINF:-1,Мульт
+https://autopilot.catcast.tv/content/38850/index.m3u8
+#EXTINF:-1 ,Мультиландия
+http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
+#EXTINF:-1,Kinder TV
+http://autopilot.catcast.tv/content/38144/index.m3u8
+#EXTINF:-1,Детское Кино
+http://v2.catcast.me/content/38720/index.m3u8
+#EXTINF:-1,Аниме канал
+https://v2.catcast.tv/content/35676/index.m3u8
+#EXTINF:0,Мультиландия
+http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
+#EXTINF:-1,Рыжий
+http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
