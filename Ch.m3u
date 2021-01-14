@@ -46,8 +46,6 @@ http://live02-cdn.tv.ti.ru:80/dtv/id119_NBN_SG--tnt/03/plst.m3u8
 #EXTINF:-1,Рен ТВ
 http://188.93.95.83/rentv/index.m3u8
 #EXTINF:-1,TLC
-http://212.66.60.4:8000/play/a02a
-#EXTINF:-1,TLC
 http://176.110.234.199:34040/udp/238.1.1.26:1234
 #EXTINF:-1,TV1000
 http://188.93.95.83/tv1000/index.m3u8
