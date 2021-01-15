@@ -67,16 +67,6 @@ http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 http://live02-cdn.tv.ti.ru:80/dtv/id411_NBN_SG--NTVKinoPlus/01/plst.m3u8
 #EXTINF:0,Кинопремьера HD
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
-#EXTINF:1,Кинопремьера HD
-http://212.66.60.4:8000/play/a0d2
-#EXTINF:1,Кинопремьера HD
-http://persik.by/stream/6738/318852/10329.m3u8
-#EXTINF:1,Кинопремьера HD
-http://persik.by/stream/6738/318852/10240.m3u8
-#EXTINF:1,Кинопремьера
-http://persik.by/stream/6738/318852/34.m3u8
-#EXTINF:1,Кинопремьера
-http://persik.by/stream/6738/318852/10328.m3u8
 #EXTINF:0,Кинокомедия HD
 http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
 #EXTINF:-1,Киносемья HD
@@ -89,14 +79,13 @@ http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 #EXTINF:-1,Киносвидание
 http://188.93.95.83/kinosvidanie/index.m3u8
-#EXTINF:-1,Киноужас
-http://212.66.60.4:8000/play/a0df
+
+Киноужас
+
 #EXTINF:-1,Мужское кино HD
 http://188.35.9.11:2022
 #EXTINF:-1,Мужское Кино HD
 http://89.106.234.3:80/Mujskoe_kino_hd_34_35.m3u8
-#EXTINF:-1,Мужское кино
-http://212.66.60.4:8000/play/a0aa
 #EXTINF:0,Мужское кино
 https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
 #EXTINF:-1,Мужское кино
@@ -109,8 +98,6 @@ http://89.106.234.3:80/Rodnoe_kino_38_39.m3u8
 http://212.66.60.4:8000/play/a0ei
 #EXTINF:-1,Кино ТВ
 http://51.195.44.53:8081/tv/kino-tv/playlist.m3u8
-#EXTINF:-1,Кино ТВ
-http://185.245.187.150:80/KinotvFHD/index.m3u8
 #EXTINF:-1,Кино ТВ
 http://178.163.50.176:4022/udp/234.0.0.154:2000
 #EXTINF:-1,Фантастика HD
@@ -151,10 +138,6 @@ http://188.93.95.83/healthtv/index.m3u8
 http://188.93.95.83/tv5/index.m3u8
 #EXTINF:-1,Amedia 1
 http://188.93.95.83/amedia/index.m3u8
-#EXTINF:-1,Amedia 1
-http://185.245.187.150:80/Amedia1/index.m3u8
-#EXTINF:-1,Amedia Premium HD
-http://185.245.187.150:80/AmediaPremiumFHD/index.m3u8
 #EXTINF:-1,Amedia Hit
 http://188.93.95.83/amediahit/index.m3u8
 #EXTINF:-1,Amedia Hit HD
@@ -287,8 +270,6 @@ http://a3569458063-s26881.cdn.ngenix.net/live/smil:mplan.smil/chunklist_b1600000
 http://vid.extremtv.ru/hls_get/cameraFeed.m3u8
 #EXTINF:-1 ,Travel Guide TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
-#EXTINF:-1 ,Travel HD BG
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 #EXTINF:-1,Миллет
 http://live.trkmillet.ru/millet/index.m3u8
 #EXTINF:-1,Моя Планета
@@ -309,30 +290,12 @@ http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 http://online-video.rbc.ru/online/rbctv_480p/index.m3u8
 #EXTINF:-1 ,Тео ТВ
 http://82.138.2.50:1935/live/TeoTV.stream_720p/playlist.m3u8
-#EXTINF:-1,Nickelodeon HD
-http://185.220.35.73:8080/d8dab5d8122e05867dfeeb7eb31b8f89/video.m3u8?token=tlcftyrlbn
-#EXTINF:-1,Nickelodeon
-http://176.51.196.8:1234/udp/233.7.70.52:5000
-#EXTINF:-1,Nickelodeon
-http://212.66.60.4:8000/play/a0by
-#EXTINF:-1,Nickelodeon
-http://95.191.248.38:1234/udp/233.7.70.52:5000
 #EXTINF:-1,Nickelodeon
 http://176.51.225.209:1234/udp/233.7.70.52:5000
-#EXTINF:-1,Nick Jr.
-http://109.248.95.107:40222/udp/239.195.1.49:1234
 #EXTINF:-1,Nick Jr.
 http://188.168.23.240:81/udp/233.12.144.85:5050
 #EXTINF:-1,Cartoon Network
 http://51.68.141.106:8081/tv/cartoon-network/playlist.m3u8
-#EXTINF:-1 ,Cartoon network
-http://persik.by/stream/6738/318852/54.m3u8
-#EXTINF:-1 ,Cartoon network
-http://persik.by/stream/6738/318852/32.m3u8
-#EXTINF:-1 ,Cartoon network
-http://persik.by/stream/6738/318852/805.m3u8
-#EXTINF:-1,Disney
-http://212.66.60.4:8000/play/a058
 #EXTINF:-1,Da Vinci Kids
 http://188.93.95.83/davinci/index.m3u8
 #EXTINF:-1,Мульт
@@ -639,10 +602,6 @@ http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
 #EXTINF:0,Страна FM HD
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1,MTV HD
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1 ,MTV HD Enland
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8?seg-user-4pda-denms-ru-v1-a1
 #EXTINF:-1,Hit Music Channel
 http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1,Муз ТВ
@@ -754,28 +713,14 @@ https://59ec5453559f0.streamlock.net/canal18/smil:canal18/playlist.m3u8
 
 #EXTINF:-1,Шёлк FHD
 http://194.190.78.91:8080/shelk/index.m3u8?password=883174874826
-#EXTINF:-1,Русская ночь
-http://185.3.18.113:81/udp/239.1.6.32:1234
-#EXTINF:-1,Playboy TV
-http://185.3.18.113:81/udp/239.1.6.39:1234
-#EXTINF:-1,Playboy TV
-http://185.245.187.150:80/PlayboyTV/index.m3u8
 #EXTINF:-1,Playboy TV
 http://bb123.pro:1453/samy19_20/g5woSDuZf6/1437
-#EXTINF:-1,Brazzers TV
-http://185.3.18.113:81/udp/239.1.6.40:1234
 #EXTINF:-1,Brazzers TV
 http://xcui.vitvabc.xyz:8880/Carlos/Carlos/18381
 #EXTINF:-1,Dorcel
 http://bb123.pro:1453/samy19_20/g5woSDuZf6/2184
 #EXTINF:-1,Adult Time
 http://xcui.vitvabc.xyz:8880/Carlos/Carlos/18381
-#EXTINF:-1,Babes TV HD
-http://185.220.35.73:8080/120d24a960c3d5abc72f2fe5167fd3b5/video.m3u8?token=tlcftyrlbn
-#EXTINF:-1,Extasy 4k
-http://opplex.tv:8080/6287/6287/53241
-#EXTINF:-1,HotClub 2 FHD Adult
-http://ky-iptv.com:25461/mario1234/mario1234/217920
 #EXTINF:-1,HotClub 2 FHD Adult
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1,Eroxxx HD
@@ -786,40 +731,16 @@ http://188.35.9.26:5031/udp/058j
 http://uruguayiptv.com:25461/leandro1/leandro123/11258
 #EXTINF:0,Pink Erotic
 http://mypanel.tv:8000/martinwalter1/mpcder44/19678
-#EXTINF:-1,Pink Erotic 1
-http://bb123.pro:1453/samy19_20/g5woSDuZf6/1446
 #EXTINF:-1,Pink Erotic 2
 http://bb123.pro:1453/samy19_20/g5woSDuZf6/1447
 #EXTINF:-1,Pink Erotic 3
 http://bb123.pro:1453/samy19_20/g5woSDuZf6/1449
-#EXTINF:-1,Pink Erotic 4
-http://bb123.pro:1453/samy19_20/g5woSDuZf6/1448
-#EXTINF:-1,Pink Erotic 5
-http://bb123.pro:1453/samy19_20/g5woSDuZf6/1450
-#EXTINF:-1,Pink Erotic 7
-http://bb123.pro:1453/samy19_20/g5woSDuZf6/1452
-#EXTINF:-1,Pink Erotic 8
-http://bb123.pro:1453/samy19_20/g5woSDuZf6/1453
 #EXTINF:-1,O-la-la
 http://tigeriptv.vip:8080/330/330/80830
-#EXTINF:-1,Barely Legal TV
-http://ky-iptv.com:25461/mario1234/mario1234/224719
-#EXTINF:-1,FrenchLover TV
-http://37.235.200.88:81/udp/225.50.70.7:1234
-#EXTINF:-1,Redlight HD
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/13928.ts
-#EXTINF:-1,Blue Hustler Europe
-http://ky-iptv.com:25461/mario1234/mario1234/773413
 #EXTINF:-1,Blue Hustler
 http://catchup.iptv.iinet.rs/playlist.m3u8?id=214&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR
 #EXTINF:-1,Hustler TV
 http://catchup.iptv.iinet.rs/chunklist.m3u8?id=177&profile=1&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA
-#EXTINF:-1,Hustler TV
-http://ky-iptv.com:25461/mario1234/mario1234/218123
-#EXTINF:-1,Hustler HD Europe
-http://api.gotvred.com:8889/live/jNeDAgS97K/0DCd1A3Mnk/13927.ts
-#EXTINF:-1,Hustler HD Europe
-http://185.220.35.73:8080/d525dc55d307eab953b564118475d053/video.m3u8?token=tlcftyrlbn
 #EXTINF:-1,Hustler HD
 http://uruguayiptv.com:25461/leandro1/leandro123/11280
 #EXTINF:-1,Blue Hustler Europe
@@ -832,30 +753,12 @@ http://bb123.pro:1453/samy19_20/g5woSDuZf6/1443
 http://188.35.9.26:3031/udp/110c
 #EXTINF:-1,Penthouse
 http://bb123.pro:1453/samy19_20/g5woSDuZf6/2180
-#EXTINF:-1,Erotic
-http://planettvweb.com:25460/fernando123/fernando123/17702
 #EXTINF:-1,Balkan Erotic
 http://bb123.pro:1453/samy19_20/g5woSDuZf6/2189
 #EXTINF:-1,PassionXXX
 http://bb123.pro:1453/samy19_20/g5woSDuZf6/2188
 #EXTINF:-1,PassionXXX
 http://bb123.pro:1453/samy19_20/g5woSDuZf6/1434
-#EXTINF:-1,HOT
-http://92.246.85.75:4000/play/a06h
-#EXTINF:-1,Hot
-http://planettvweb.com:48000/fernando123/fernando123/17693
-#EXTINF:-1,ALBA XXX 1
-http://bb123.pro:1453/samy19_20/g5woSDuZf6/2125
-#EXTINF:-1,ALBA XXX 3
-http://bb123.pro:1453/samy19_20/g5woSDuZf6/2127
-#EXTINF:-1,ALBA XXX 4
-http://bb123.pro:1453/samy19_20/g5woSDuZf6/2128
-#EXTINF:-1,ALBA XXX 4
-http://bb123.pro:1453/samy19_20/g5woSDuZf6/2185
-#EXTINF:-1,ALBA XXX 5
-http://bb123.pro:1453/samy19_20/g5woSDuZf6/2129
-#EXTINF:-1,ALBA XXX 6
-http://bb123.pro:1453/samy19_20/g5woSDuZf6/2130
 #EXTINF:-1,Sextreme
 http://187.120.222.12:8000/play/Sextreme/index.m3u8
 #EXTINF:-1,Evil Angel
@@ -890,10 +793,6 @@ http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/375
 #EXTINF:-1 ,Jasmin channel HD
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1793148297.m3u8
-#EXTINF:0,Candyman
-http://serv30.vintera.tv:8081/candy/candyman29/playlist.m3u8
-#EXTINF:-1,Website
-http://e01.plius.tv:64144/n216/index.m3u8
 #EXTINF:-1,Pornstar HD
 http://nruxmzi.ojswi5dsmftgm2ldfz4hs6q.cmle.ru/pornstar.m3u8
 #EXTINF:-1,Babestation 2
@@ -972,7 +871,5 @@ http://cdn.adultiptv.net/threesome.m3u8
 http://cdn.adultiptv.net/threesome.m3u8
 #EXTINF:-1,Threesome HD
 http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1,ALBAXXX
-http://51.104.147.231:8080/Amanda1/Nosa2255/19683
 #EXTINF:0,Website
 http://188.35.9.26:5031/udp/058j
