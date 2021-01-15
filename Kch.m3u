@@ -1,20 +1,10 @@
 #EXTM3U
-#EXTINF:-1,Nickelodeon HD
-http://185.220.35.73:8080/d8dab5d8122e05867dfeeb7eb31b8f89/video.m3u8?token=tlcftyrlbn
-#EXTINF:-1,Nickelodeon
-http://212.66.60.4:8000/play/a0by
-#EXTINF:-1,Nickelodeon
-http://95.191.248.38:1234/udp/233.7.70.52:5000
 #EXTINF:-1,Nickelodeon
 http://176.51.225.209:1234/udp/233.7.70.52:5000
-#EXTINF:-1,Nick Jr.
-http://109.248.95.107:40222/udp/239.195.1.49:1234
 #EXTINF:-1,Nick Jr.
 http://188.168.23.240:81/udp/233.12.144.85:5050
 #EXTINF:-1,Cartoon Network
 http://51.68.141.106:8081/tv/cartoon-network/playlist.m3u8
-#EXTINF:-1,Disney
-http://212.66.60.4:8000/play/a058
 #EXTINF:-1,Da Vinci Kids
 http://188.93.95.83/davinci/index.m3u8
 #EXTINF:-1,Da Vinchi Kids
