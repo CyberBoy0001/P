@@ -95,8 +95,6 @@ http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
 #EXTINF:-1,Родное кино
 http://89.106.234.3:80/Rodnoe_kino_38_39.m3u8
 #EXTINF:-1,Кино ТВ
-http://212.66.60.4:8000/play/a0ei
-#EXTINF:-1,Кино ТВ
 http://51.195.44.53:8081/tv/kino-tv/playlist.m3u8
 #EXTINF:-1,Кино ТВ
 http://178.163.50.176:4022/udp/234.0.0.154:2000
@@ -148,14 +146,10 @@ http://188.93.95.83/eurokino/index.m3u8
 http://188.93.95.83/eurokino/index.m3u8
 #EXTINF:-1,Sony Turbo
 http://live02-cdn.tv.ti.ru:80/dtv/id157_NBN_SG--SonyTurbo/02/plst.m3u8
-#EXTINF:-1,DieselBoy HD
-http://cdnnow.goodgame.ru/hls/179450.m3u8
 #EXTINF:-1,Иллюзион+
 http://live02-cdn.tv.ti.ru:80/dtv/id206_NBN_SG--IllusionPlus/03/plst.m3u8
 #EXTINF:-1,Иллюзион+
 http://188.93.95.83/illuzionplus/index.m3u8
-#EXTINF:0,Кино Сериал
-https://autopilot.catcast.tv/content2/37388/index.m3u8
 #EXTINF:-1,Cinema
 https://sc.id-tv.kz/Cinema_34_35.m3u8
 #EXTINF:-1,Кино 1
@@ -184,12 +178,8 @@ https://bozztv.com/36bay2/gin/giniko_arjlover_2000kb_36bay2/index.m3u8
 http://188.93.95.83/fenikspluskino/index.m3u8
 #EXTINF:-1,Fenix+Kino
 http://188.93.95.83/fenikspluskino/index.m3u8
-#EXTINF:-1,Сити Эдем TV
-http://v2.catcast.me/content/34246/index.m3u8
 #EXTINF:-1,Ужасы VHS
 https://v2.catcast.tv/content/38798/index.m3u8
-#EXTINF:-1,KinoBroadcast
-http://v1.catcast.me/contentv2/35525/index.m3u8
 #EXTINF:-1,Драма
 https://v2.catcast.tv/content/36732/index.m3u8
 #EXTINF:0,Калейдоскоп ТВ
@@ -220,8 +210,6 @@ http://89.106.234.3:80/Indiiskoe_kino_34_35.m3u8
 https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1,СССР ТВ
 https://autopilot.catcast.tv/content/38821/index.m3u8
-#EXTINF:-1,Страх ТВ
-http://xiptv.site/iptvteam.flv
 #EXTINF:-1,Ужастик
 https://autopilot.catcast.tv/content/38896/index.m3u8
 #EXTINF:-1,ПРЕМЬЕРА
@@ -250,8 +238,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 #EXTINF:0,Мир Premium
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1 ,Мир Premium HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/chunklist.m3u8
 #EXTINF:0,Мир 24 HD 
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1,Мир 24
@@ -448,10 +434,6 @@ https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
 http://sc.id-tv.kz:80/dorama_hd_34_35.m3u8
 #EXTINF:-1,A2
 https://sc.id-tv.kz/A2_38_39.m3u8
-#EXTINF:-1,Тайна
-http://182.73.122.74:10005/bysid/418
-#EXTINF:-1,Akudji HD
-http://hls.goodgame.ru/hls/5346.m3u8
 #EXTINF:-1,Кинозал-VHS 90s
 http://v2.catcast.me/content/37925/index.m3u8
 #EXTINF:-1,Кинозал-Музыка кино HD
