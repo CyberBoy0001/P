@@ -1,10 +1,14 @@
 #EXTM3U
 #EXTINF:-1,Nickelodeon
+http://5.137.201.182:1234/udp/233.7.70.52:5000
+#EXTINF:-1,Nickelodeon
 http://176.51.225.209:1234/udp/233.7.70.52:5000
 #EXTINF:-1,Nick Jr.
 http://188.168.23.240:81/udp/233.12.144.85:5050
 #EXTINF:-1,Cartoon Network
 http://51.68.141.106:8081/tv/cartoon-network/playlist.m3u8
+#EXTINF:-1,Disney
+http://tv.home-iptv.ru:8000/live/NndqUU6Xoe/mV6O7VmqLx/67.ts
 #EXTINF:-1,Da Vinci Kids
 http://188.93.95.83/davinci/index.m3u8
 #EXTINF:-1,Da Vinchi Kids
