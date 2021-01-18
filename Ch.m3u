@@ -47,8 +47,6 @@ http://live02-cdn.tv.ti.ru:80/dtv/id119_NBN_SG--tnt/03/plst.m3u8
 http://mhd.iptv2022.com/p/4ZlhKLsPlB4B093W_ECjOQ,1610983134/streaming/tntott/324/variable.m3u8
 #EXTINF:-1,Рен ТВ
 http://188.93.95.83/rentv/index.m3u8
-#EXTINF:-1,TLC HD
-http://91.235.188.137:12346/udp/239.255.0.192:1234
 #EXTINF:-1,TLC
 http://zigfreed.ru/VC7/47.m3u8
 #EXTINF:-1,TV1000
