@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Nickelodeon HD
 http://kvartirnie-pereezdi.workman.msk.ru:8000/live/kvartirnie-offisnie-perezdi/perezdi-moskva-zakazat-uslugi-gruzchikov/66.ts
+#EXTINF:-1,Nickelodeon HD
+http://zigfreed.ru/VC7/770.m3u8
 #EXTINF:-1,Nickelodeon
 http://95.188.17.142:1234/udp/233.7.70.52:5000
 #EXTINF:-1,Nickelodeon
