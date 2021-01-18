@@ -49,6 +49,8 @@ http://mhd.iptv2022.com/p/4ZlhKLsPlB4B093W_ECjOQ,1610983134/streaming/tntott/324
 http://188.93.95.83/rentv/index.m3u8
 #EXTINF:-1,TLC HD
 http://91.235.188.137:12346/udp/239.255.0.192:1234
+#EXTINF:-1,TLC
+http://zigfreed.ru/VC7/47.m3u8
 #EXTINF:-1,TV1000
 http://188.93.95.83/tv1000/index.m3u8
 #EXTINF:-1,TV1000 action
@@ -81,6 +83,8 @@ http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 #EXTINF:-1,Киносвидание
 http://188.93.95.83/kinosvidanie/index.m3u8
+#EXTINF:-1,Ужастик
+http://zigfreed.ru/VC7/180.m3u8
 
 Киноужас
 
@@ -96,10 +100,14 @@ http://188.93.95.83/interesnoetv/index.m3u8
 http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
 #EXTINF:-1,Родное кино
 http://89.106.234.3:80/Rodnoe_kino_38_39.m3u8
+#EXTINF:-1,Кино ТВ HD
+http://zigfreed.ru/VC7/87.m3u8
 #EXTINF:-1,Кино ТВ
 http://51.195.44.53:8081/tv/kino-tv/playlist.m3u8
 #EXTINF:-1,Кино ТВ
 http://178.163.50.176:4022/udp/234.0.0.154:2000
+#EXTINF:-1,Фантастика HD
+http://zigfreed.ru/VC7/178.m3u8
 #EXTINF:-1,Фантастика HD
 https://cdnnow.goodgame.ru/hls/181070.m3u8
 #EXTINF:-1,Страшное HD
@@ -124,6 +132,8 @@ http://188.35.9.11:2017
 Ultra HD Cinema
 
 #EXTINF:-1,Кино UHD
+http://zigfreed.ru/VC7/29.m3u8
+#EXTINF:-1,Кино UHD
 http://188.35.9.26:16050/udp/238.0.16.1:69000
 #EXTINF:-1,Кино UHD
 http://188.35.9.18:16050/udp/238.0.16.1:69000
@@ -131,10 +141,14 @@ http://188.35.9.18:16050/udp/238.0.16.1:69000
 http://195.189.105.158:9050/134/index.m3u8
 #EXTINF:-1,VIP Megahit HD
 http://195.189.105.158:9050/133/index.m3u8
+#EXTINF:-1,VIP Megahit HD
+http://zigfreed.ru/VC7/60.m3u8
 #EXTINF:-1,VIP Megahit FHD
 http://188.35.9.11:2016
 #EXTINF:-1,VIP Comedy FHD
 http://195.189.105.158:9050/132/index.m3u8
+#EXTINF:-1,VIP Comedy FHD
+http://zigfreed.ru/VC7/59.m3u8
 #EXTINF:-1,VIP Hit
 http://188.93.95.83/healthtv/index.m3u8
 #EXTINF:-1,VIP Family
@@ -283,6 +297,8 @@ http://online-video.rbc.ru/online/rbctv_480p/index.m3u8
 http://82.138.2.50:1935/live/TeoTV.stream_720p/playlist.m3u8
 #EXTINF:-1,Nickelodeon HD
 http://kvartirnie-pereezdi.workman.msk.ru:8000/live/kvartirnie-offisnie-perezdi/perezdi-moskva-zakazat-uslugi-gruzchikov/66.ts
+#EXTINF:-1,Nickelodeon HD
+http://zigfreed.ru/VC7/770.m3u8
 #EXTINF:-1,Nickelodeon
 http://95.188.17.142:1234/udp/233.7.70.52:5000
 #EXTINF:-1,Nickelodeon
@@ -752,6 +768,8 @@ http://bb123.pro:1453/samy19_20/g5woSDuZf6/1447
 http://bb123.pro:1453/samy19_20/g5woSDuZf6/1449
 #EXTINF:-1,Pink Erotic 6
 http://mypanel.tv:8000/martinwalter1/mpcder44/19678
+#EXTINF:-1,SuperOne HD
+http://91.82.54.45:40124/udp/239.1.1.199:5000
 #EXTINF:-1,O-la-la
 http://tigeriptv.vip:8080/330/330/80830
 #EXTINF:-1,Blue Hustler
@@ -762,6 +780,8 @@ http://catchup.iptv.iinet.rs/chunklist.m3u8?id=177&profile=1&token=dG9rZW49LVkzb
 http://146.59.145.53:80/anna/anna/208138
 #EXTINF:-1,Hustler HD Europe
 http://151.80.101.90/stream/A6IEG2RFY5/52.m3u8
+#EXTINF:-1,Hustler HD
+http://188.35.9.26:2030/udp/047c
 #EXTINF:-1,Hustler HD
 http://infinite.dnsabr.com:8080/TONY/TONY/35199
 #EXTINF:-1,Hustler HD
@@ -778,6 +798,10 @@ http://bb123.pro:1453/samy19_20/g5woSDuZf6/1443
 http://188.35.9.26:3031/udp/110c
 #EXTINF:-1,Penthouse
 http://bb123.pro:1453/samy19_20/g5woSDuZf6/2180
+#EXTINF:-1,XXX 1
+http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,XXX 2
+http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Balkan Erotic
 http://bb123.pro:1453/samy19_20/g5woSDuZf6/2189
 #EXTINF:-1,PassionXXX
