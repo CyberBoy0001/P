@@ -71,6 +71,8 @@ http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 #EXTINF:1,Кинопремьера HD
 https://s4.idata.uz/kinopremyera/tracks-v1a1/mono.m3u8
+#EXTINF:1,Кинопремьера HD
+http://zigfreed.ru/VC7/113.m3u8
 #EXTINF:0,Кинокомедия HD
 http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
 #EXTINF:-1,Киносемья HD
