@@ -67,8 +67,6 @@ http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 http://188.93.95.83/nashanovoekino/index.m3u8
 #EXTINF:0,Киномикс HD
 http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
-#EXTINF:0,Кинопремьера HD
-https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 #EXTINF:1,Кинопремьера HD
 https://s4.idata.uz/kinopremyera/tracks-v1a1/mono.m3u8
 #EXTINF:1,Кинопремьера HD
@@ -85,10 +83,6 @@ http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 #EXTINF:-1,Киносвидание
 http://188.93.95.83/kinosvidanie/index.m3u8
-#EXTINF:-1,Ужастик
-http://zigfreed.ru/VC7/180.m3u8
-
-Киноужас
 
 #EXTINF:-1,Мужское кино HD
 http://188.35.9.11:2022
@@ -100,21 +94,14 @@ http://188.93.95.83/interesnoetv/index.m3u8
 http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
 #EXTINF:-1,Родное кино
 http://89.106.234.3:80/Rodnoe_kino_38_39.m3u8
-#EXTINF:-1,Кино ТВ HD
-http://zigfreed.ru/VC7/87.m3u8
 #EXTINF:-1,Кино ТВ
 http://51.195.44.53:8081/tv/kino-tv/playlist.m3u8
 #EXTINF:-1,Кино ТВ
 http://178.163.50.176:4022/udp/234.0.0.154:2000
 #EXTINF:-1,Фантастика HD
-http://zigfreed.ru/VC7/178.m3u8
-#EXTINF:-1,Фантастика HD
 https://cdnnow.goodgame.ru/hls/181070.m3u8
 #EXTINF:-1,Страшное HD
 http://95.188.116.4:1234/udp/225.54.53.32:5000
-
-Шокирующее HD
-
 
 #EXTINF:-1,VIP HORROR HD
 http://cdnnow.goodgame.ru/hls/178234.m3u8
@@ -130,8 +117,6 @@ http://188.35.9.11:2015
 http://188.35.9.26:5050/001
 #EXTINF:-1,Премиальное HD
 http://188.35.9.11:2017
-
-Ultra HD Cinema
 
 #EXTINF:-1,Кино UHD
 http://zigfreed.ru/VC7/29.m3u8
