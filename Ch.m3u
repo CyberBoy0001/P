@@ -37,14 +37,12 @@ http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m
 http://live02-cdn.tv.ti.ru:80/dtv/id196_NBN_SG--NTV/03/plst.m3u8
 #EXTINF:-1,НТВ Мир
 http://188.93.95.83/ntvmir/index.m3u8
-#EXTINF:0,ТНТ HD
-http://188.35.9.11:2018
 #EXTINF:1,ТНТ HD
 http://37.193.162.6:4022/udp/239.1.21.55:1234
 #EXTINF:-1,ТНТ
-http://live02-cdn.tv.ti.ru:80/dtv/id119_NBN_SG--tnt/03/plst.m3u8
+http://uiptv.do.am/1ufc/106596187/playlist.m3u8
 #EXTINF:-1,ТНТ
-http://mhd.iptv2022.com/p/4ZlhKLsPlB4B093W_ECjOQ,1610983134/streaming/tntott/324/variable.m3u8
+http://147.135.210.90:8081/tv/tnt/playlist.m3u8
 #EXTINF:-1,Рен ТВ
 http://188.93.95.83/rentv/index.m3u8
 
@@ -100,6 +98,8 @@ https://cdnnow.goodgame.ru/hls/181070.m3u8
 #EXTINF:-1,Страшное HD
 http://95.188.116.4:1234/udp/225.54.53.32:5000
 
+#EXTINF:-1,Ужастик
+https://autopilot.catcast.tv/content/38896/index.m3u8
 #EXTINF:-1,VIP HORROR HD
 http://cdnnow.goodgame.ru/hls/178234.m3u8
 #EXTINF:-1,Остросюжетное HD
@@ -286,6 +286,8 @@ http://82.138.2.50:1935/live/TeoTV.stream_720p/playlist.m3u8
 
 #EXTINF:-1,Nickelodeon
 http://109.248.89.135:4044/udp/239.195.1.38:1234
+#EXTINF:-1,Nickelodeon
+http://178.163.19.62:4022/udp/234.0.0.153:2000
 #EXTINF:-1,Nick Jr.
 http://188.168.23.240:81/udp/233.12.144.85:5050
 #EXTINF:-1,Disney
