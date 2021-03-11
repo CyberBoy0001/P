@@ -43,42 +43,67 @@ http://37.193.162.6:4022/udp/239.1.21.55:1234
 http://uiptv.do.am/1ufc/106596187/playlist.m3u8
 #EXTINF:-1,ТНТ
 http://147.135.210.90:8081/tv/tnt/playlist.m3u8
+#EXTINF:-1,ТНТ
+http://uiptv.do.am/1ufc/106596187/playlist.m3u8
 #EXTINF:-1,Рен ТВ
 http://188.93.95.83/rentv/index.m3u8
 
 #EXTINF:-1,TV1000
-http://188.93.95.83/tv1000/index.m3u8
+http://myott.top/stream/DIPK8H19CP8/110.m3u8
+#EXTINF:-1,TV1000
+http://51.68.140.190:8081/tv/tv1000/playlist.m3u8
+#EXTINF:-1,TV1000
+https://s4.idata.uz/TV1000/index.m3u8
 #EXTINF:-1,TV1000 action
-http://188.93.95.83/tv1000act/index.m3u8
+http://persik.by/stream/2347/472449/10238.m3u8
 #EXTINF:-1,TV 1000 World Kino
 http://195.189.105.158:9050/121/index.m3u8
 #EXTINF:-1,TV1000 Русское кино
 http://188.93.95.83/tv1000rukino/index.m3u8
+#EXTINF:-1,TV1000 Русское кино
+http://185.74.7.220:8080/tv1000ru/tracks-v1a1/index.m3u8
 #EXTINF:-1,Кинохит
 http://188.93.95.83/kinohit/index.m3u8
+#EXTINF:-1,Кинохит
+http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 #EXTINF:0,Кинохит HD
 http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 #EXTINF:-1,Наше новое кино
-http://188.93.95.83/nashanovoekino/index.m3u8
+http://31.210.173.69:8000/play/a002/index.m3u8?token=gsfjkfr47vdh6853hck
 #EXTINF:0,Киномикс HD
 http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:1,Киномикс FHD
+http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:1,Кинопремьера FHD
+http://89.106.234.3:80/Kinopremiera_hd_34_35.m3u8
+#EXTINF:1,Кинопремьера HD
+http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8
 #EXTINF:1,Кинопремьера HD
 https://s4.idata.uz/kinopremyera/tracks-v1a1/mono.m3u8
 #EXTINF:1,Кинопремьера HD
 http://zigfreed.ru/VC7/113.m3u8
+#EXTINF:1,Кинокомедия FHD
+http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
 #EXTINF:0,Кинокомедия HD
 http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+#EXTINF:-1,Киносемья FHD
+http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
 #EXTINF:-1,Киносемья HD
 http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
 #EXTINF:-1,Киносемья
 http://188.93.95.83/kinosemya/index.m3u8
+#EXTINF:-1,Киносвидание FHD
+http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1,Киносвидание HD
+http://94.154.83.88:10000/kinosvidanie
 #EXTINF:-1,Киносвидание HD
 http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 #EXTINF:-1,Киносвидание HD
 http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
-#EXTINF:-1,Киносвидание
+#EXTINF:-1,Киносвидание 
 http://188.93.95.83/kinosvidanie/index.m3u8
-
+#EXTINF:-1,Мужское кино
+http://147.135.210.90:8081/tv/mughskoe-kino/playlist.m3u8
 #EXTINF:-1,Мужское кино HD
 http://188.35.9.11:2022
 #EXTINF:-1,Мужское Кино HD
@@ -97,6 +122,8 @@ http://178.163.50.176:4022/udp/234.0.0.154:2000
 https://cdnnow.goodgame.ru/hls/181070.m3u8
 #EXTINF:-1,Страшное HD
 http://95.188.116.4:1234/udp/225.54.53.32:5000
+#EXTINF:-1,Шокирующее HD
+http://spacetv.in/stream/DIPK8H19CP8/75.m3u8
 
 #EXTINF:-1,Ужастик
 https://autopilot.catcast.tv/content/38896/index.m3u8
@@ -112,7 +139,14 @@ http://188.35.9.11:2015
 http://188.35.9.26:5050/001
 #EXTINF:-1,Премиальное HD
 http://188.35.9.11:2017
-
+#EXTINF:-1,Premium HD
+http://195.154.242.229:3000/mytelegramgroup/premiere_group_chat/19547
+#EXTINF:-1,Thriller HD
+http://195.154.242.229:3000/mytelegramgroup/premiere_group_chat/19677
+#EXTINF:-1,Paradox HD
+http://195.154.242.229:3000/mytelegramgroup/premiere_group_chat/47349
+#EXTINF:-1,Комедийное HD
+http://spacetv.in/stream/DIPK8H19CP8/74.m3u8
 #EXTINF:-1,Кино UHD
 http://zigfreed.ru/VC7/29.m3u8
 #EXTINF:-1,Кино UHD
