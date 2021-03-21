@@ -47,7 +47,10 @@ http://147.135.210.90:8081/tv/tnt/playlist.m3u8
 http://uiptv.do.am/1ufc/106596187/playlist.m3u8
 #EXTINF:-1,Рен ТВ
 http://188.93.95.83/rentv/index.m3u8
-
+#EXTINF:-1,TLC HD
+http://cache0.airnet.lt/z3/tlchd/index.m3u8
+#EXTINF:-1,TLC
+http://sc.id-tv.kz:80/TLCHD_34_35.m3u8
 #EXTINF:-1,TV1000
 http://myott.top/stream/DIPK8H19CP8/110.m3u8
 #EXTINF:-1,TV1000
