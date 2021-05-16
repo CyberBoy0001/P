@@ -1,8 +1,12 @@
 #EXTM3U
+#EXTINF:-1,Первый Канал HD
+http://185.162.8.175:6878/ace/manifest.m3u8?id=ee3ce944fa3a5f49428240d363ffc368454c6b72
 #EXTINF:-1,Первый Канал
 http://live02-cdn.tv.ti.ru:80/dtv/id104_NBN_SG--1TV/03/plst.m3u8
 #EXTINF:-1,Первый Канал СНГ
 http://188.93.95.83/ort/index.m3u8
+#EXTINF:-1,Первый канал "Евразия"
+https://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
 #EXTINF:-1,Первый канал "Евразия"
 http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 #EXTINF:-1,Первый канал "Евразия"
@@ -52,10 +56,6 @@ http://cache0.airnet.lt/z3/tlchd/index.m3u8
 #EXTINF:-1,TLC
 http://sc.id-tv.kz:80/TLCHD_34_35.m3u8
 #EXTINF:-1,TV1000
-http://myott.top/stream/DIPK8H19CP8/110.m3u8
-#EXTINF:-1,TV1000
-http://51.68.140.190:8081/tv/tv1000/playlist.m3u8
-#EXTINF:-1,TV1000
 https://s4.idata.uz/TV1000/index.m3u8
 #EXTINF:-1,TV1000 action
 http://persik.by/stream/2347/472449/10238.m3u8
@@ -72,13 +72,17 @@ http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 #EXTINF:0,Кинохит HD
 http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 #EXTINF:-1,Наше новое кино
-http://31.210.173.69:8000/play/a002/index.m3u8?token=gsfjkfr47vdh6853hck
+http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
+#EXTINF:-1,Наше новое кино
+http://118.47.168.157:8080/play/a01t/index.m3u8
 #EXTINF:0,Киномикс HD
 http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 #EXTINF:1,Киномикс FHD
 http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 #EXTINF:1,Кинопремьера FHD
 http://89.106.234.3:80/Kinopremiera_hd_34_35.m3u8
+#EXTINF:1,Кинопремьера FHD
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 #EXTINF:1,Кинопремьера HD
 http://185.74.7.220:8080/kinopremyera/tracks-v1a1/index.m3u8
 #EXTINF:1,Кинопремьера HD
@@ -99,12 +103,10 @@ http://188.93.95.83/kinosemya/index.m3u8
 http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 #EXTINF:-1,Киносвидание HD
 http://94.154.83.88:10000/kinosvidanie
-#EXTINF:-1,Киносвидание HD
-http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
-#EXTINF:-1,Киносвидание HD
-http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 #EXTINF:-1,Киносвидание 
 http://188.93.95.83/kinosvidanie/index.m3u8
+#EXTINF:-1,Мужское кино
+https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
 #EXTINF:-1,Мужское кино
 http://147.135.210.90:8081/tv/mughskoe-kino/playlist.m3u8
 #EXTINF:-1,Мужское кино HD
@@ -118,16 +120,25 @@ http://89.106.234.3:80/Rodnoe_kino_34_35.m3u8
 #EXTINF:-1,Родное кино
 http://89.106.234.3:80/Rodnoe_kino_38_39.m3u8
 #EXTINF:-1,Кино ТВ
-http://51.195.44.53:8081/tv/kino-tv/playlist.m3u8
-#EXTINF:-1,Кино ТВ
-http://178.163.50.176:4022/udp/234.0.0.154:2000
+http://118.47.168.157:8080/play/a014/index.m3u8
+#EXTINF:-1,Кинопоказ
+https://s3.idata.uz/dars9/index.m3u8
+#EXTINF:-1,Кинопоказ
+http://185.74.7.220:8080/kinopokaz/tracks-v1a1/index.m3u8
+#EXTINF:-1,Film ХИТ1 HD
+https://hls.myvideocontent.ru/hls/vipcinemahd/index.m3u8
 #EXTINF:-1,Фантастика HD
 https://cdnnow.goodgame.ru/hls/181070.m3u8
+#EXTINF:-1,Ужастик
+https://autopilot.catcast.tv/content/38896/index.m3u8
 #EXTINF:-1,Страшное HD
 http://95.188.116.4:1234/udp/225.54.53.32:5000
 #EXTINF:-1,Шокирующее HD
 http://spacetv.in/stream/DIPK8H19CP8/75.m3u8
-
+#EXTINF:-1,Еврокино
+https://edge04.beetv.kz/btv/SWM/Eurokino/Eurokino_576p_2000kbps.m3u8
+#EXTINF:-1,Еврокино
+http://94.230.240.12:8080/eurokino/index.m3u8
 #EXTINF:-1,Ужастик
 https://autopilot.catcast.tv/content/38896/index.m3u8
 #EXTINF:-1,VIP HORROR HD
@@ -204,6 +215,8 @@ http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
 http://51.195.44.53:8081/tv/dom-kino/chunks.m3u8
 #EXTINF:-1,Дом кинo
 http://cdn.nexttvnet.ru/hlsl/10/Dom_kino/Dom_kino_3/index.m3u8
+#EXTINF:-1,Дом Кино Премиум HD
+http://212.76.27.27/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8
 #EXTINF:-1,Дом Кино Премиум HD
 http://188.35.9.26:12030/udp/160l
 #EXTINF:-1,Дом Кино Премиум HD
@@ -353,8 +366,12 @@ https://v2.catcast.tv/content/35676/index.m3u8
 http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
 #EXTINF:-1,Рыжий
 http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
+#EXTINF:-1,Преклонение HD
+http://80.89.196.34:8085/travel/index.m3u8
 #EXTINF:-1,Da Vinchi Kids
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
+#EXTINF:-1,Наука 2.0
+http://94.230.240.12:8080/nauka2/index.m3u8
 #EXTINF:-1,Наука 2.0
 http://live02-cdn.tv.ti.ru:80/dtv/id240_NBN_SG--Nauka/03/plst.m3u8
 #EXTINF:-1,Охота и рыбалка
@@ -391,6 +408,8 @@ http://188.93.95.83/viasatnat/index.m3u8
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 #EXTINF:-1,Discovery
 http://147.135.210.90:8081/tv/Discovery/chunks.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://188.247.191.234/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
 #EXTINF:-1,Discovery Science
 http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
 #EXTINF:0,Da Vinci
