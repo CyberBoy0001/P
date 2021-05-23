@@ -52,9 +52,7 @@ http://uiptv.do.am/1ufc/106596187/playlist.m3u8
 #EXTINF:-1,Рен ТВ
 http://188.93.95.83/rentv/index.m3u8
 #EXTINF:-1,TLC HD
-http://cache0.airnet.lt/z3/tlchd/index.m3u8
-#EXTINF:-1,TLC
-http://sc.id-tv.kz:80/TLCHD_34_35.m3u8
+http://188.247.191.234/btv/SWM/tlc_hd/tlc_hd_720p_3500kbps.m3u8
 #EXTINF:-1,TV1000
 https://s4.idata.uz/TV1000/index.m3u8
 #EXTINF:-1,TV1000 action
@@ -334,10 +332,10 @@ http://online-video.rbc.ru/online/rbctv_480p/index.m3u8
 #EXTINF:-1 ,Тео ТВ
 http://82.138.2.50:1935/live/TeoTV.stream_720p/playlist.m3u8
 
+#EXTINF:-1,Nickelodeon HD
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/223/index.m3u8
 #EXTINF:-1,Nickelodeon
-http://109.248.89.135:4044/udp/239.195.1.38:1234
-#EXTINF:-1,Nickelodeon
-http://178.163.19.62:4022/udp/234.0.0.153:2000
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/541/index.m3u8
 #EXTINF:-1,Nick Jr.
 http://188.168.23.240:81/udp/233.12.144.85:5050
 #EXTINF:-1,Disney
