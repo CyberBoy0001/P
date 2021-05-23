@@ -53,6 +53,8 @@ http://uiptv.do.am/1ufc/106596187/playlist.m3u8
 http://188.93.95.83/rentv/index.m3u8
 #EXTINF:-1,TLC HD
 http://188.247.191.234/btv/SWM/tlc_hd/tlc_hd_720p_3500kbps.m3u8
+#EXTINF:-1,TLC
+http://edge04.beetv.kz/btv/SWM/TLC/TLC_576p_2000kbps.m3u8
 #EXTINF:-1,TV1000
 https://s4.idata.uz/TV1000/index.m3u8
 #EXTINF:-1,TV1000 action
@@ -336,6 +338,8 @@ http://82.138.2.50:1935/live/TeoTV.stream_720p/playlist.m3u8
 http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/223/index.m3u8
 #EXTINF:-1,Nickelodeon
 http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/541/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://hlstv.kem.211.ru/239.211.211.30/stream.m3u8
 #EXTINF:-1,Nick Jr.
 http://188.168.23.240:81/udp/233.12.144.85:5050
 #EXTINF:-1,Disney
@@ -770,17 +774,19 @@ http://23.111.128.190:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,Русская ночь
-http://109.248.113.180:4044/udp/239.195.2.3:1234
-#EXTINF:-1,Русская ночь
-http://109.248.89.135:4044/udp/239.195.2.3:1234
+http://93.189.224.117:9030/russkayanoch?wowzasessionid=941057740302&time=1463063123262
 #EXTINF:-1,Русская ночь
 http://109.248.81.223:4044/udp/239.195.2.3:1234
+#EXTINF:-1,Шёлк
+http://194.190.78.91:8080/shelksd/index.m3u8
 #EXTINF:-1,Шёлк FHD
 http://194.190.78.91:8080/shelk/index.m3u8?password=883174874826
 #EXTINF:-1,Шёлк FHD
 http://194.190.78.91:8080/shelk/index.m3u8?password=883083774838
 #EXTINF:-1,Nuart TV
 http://46.47.57.148:81/udp/239.195.6.33:1234
+#EXTINF:-1,Playboy TV
+http://212.42.193.122:8888/play/a00p
 #EXTINF:-1,Playboy TV
 http://109.248.113.180:4044/udp/239.195.2.5:1234
 #EXTINF:-1,Playboy TV
@@ -795,6 +801,8 @@ http://109.248.89.13:28801/udp/239.195.2.4:1234
 http://xcui.vitvabc.xyz:8880/Carlos/Carlos/18381
 #EXTINF:-1,Brazzers TV Europe
 http://89.208.111.236:5050/udp/230.3.4.143:5678
+#EXTINF:-1,Redlight HD
+http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,XXX Erotica
 http://infinite.dnsabr.com:8080/TONY/TONY/75709
 #EXTINF:-1,Barely Legal TV
@@ -811,10 +819,14 @@ http://cdn.adultiptv.net/gay.m3u8
 http://catchup.iptv.iinet.rs/chunklist.m3u8?id=180&profile=3&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA
 #EXTINF:1,RK
 http://188.35.9.26:5031/udp/058j
+#EXTINF:1,EXTASY HD
+http://iptv.xprime.one/182/mono.m3u8
 #EXTINF:0,Pink Erotic
 http://uruguayiptv.com:25461/leandro1/leandro123/11258
 #EXTINF:0,Pink Erotic
 http://mypanel.tv:8000/martinwalter1/mpcder44/19678
+#EXTINF:-1,Pink Erotic 2
+http://91.212.150.248:80/PinkErotic2/tracks-v1a1/index.m3u8?token=gelow74
 #EXTINF:-1,Pink Erotic 2
 http://bb123.pro:1453/samy19_20/g5woSDuZf6/1447
 #EXTINF:-1,Pink Erotic 3
@@ -824,13 +836,15 @@ http://mypanel.tv:8000/martinwalter1/mpcder44/19678
 #EXTINF:-1,SuperOne HD
 http://91.82.54.45:40124/udp/239.1.1.199:5000
 #EXTINF:-1,O-la-la
-http://tigeriptv.vip:8080/330/330/80830
+http://193.33.240.8:8080/o-la-la/index.m3u8
 #EXTINF:-1,Blue Hustler
 http://catchup.iptv.iinet.rs/playlist.m3u8?id=214&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA==&DVR
 #EXTINF:-1,Hustler TV
 http://catchup.iptv.iinet.rs/chunklist.m3u8?id=177&profile=1&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0PW90dA
 #EXTINF:-1,Hustler TV
 http://146.59.145.53:80/anna/anna/208138
+#EXTINF:-1,Hustler HD Europe
+http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Hustler HD Europe
 http://151.80.101.90/stream/A6IEG2RFY5/52.m3u8
 #EXTINF:-1,Hustler HD
