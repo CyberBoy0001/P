@@ -23,8 +23,12 @@ http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u
 http://sibiev54.amazzin.pw/iptv/2XBPNFMZKED9RN/744/index.m3u8
 #EXTINF:-1,НТВ Право
 http://sibiev54.amazzin.pw/iptv/2XBPNFMZKED9RN/743/index.m3u8
+#EXTINF:-1,Квартал ТВ
+http://iptv.prosto.tv:7000/ch65/video.m3u8
 #EXTINF:-1,TLC HD
 http://188.247.191.234/btv/SWM/tlc_hd/tlc_hd_720p_3500kbps.m3u8
+#EXTINF:-1,TLC HD
+http://cloudcdn.tk:80/MersicJazvan/QblY8413/27135
 #EXTINF:-1,TLC
 http://edge04.beetv.kz/btv/SWM/TLC/TLC_576p_2000kbps.m3u8
 #EXTINF:-1,TV1000
@@ -33,10 +37,18 @@ https://s4.idata.uz/TV1000/index.m3u8
 http://185.74.7.220:8080/TV1000/mpegts
 #EXTINF:-1,TV1000
 http://iptv.prosto.tv:7000/ch46/video.m3u8
+#EXTINF:-1,TV1000
+http://iptv.prosto.tv:7000/ch46/video.m3u8
+#EXTINF:-1,TV1000 HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
 #EXTINF:-1,TV1000 action
 http://188.113.190.12/30/tracks-v1a1/index.m3u8?token=gelow7
 #EXTINF:-1,TV1000 action
+http://iptv.prosto.tv:7000/ch47/video.m3u8
+#EXTINF:-1,TV1000 action
 http://87.117.231.9/iptv/6CBBEEKZV5CG3E/9229/index.m3u8
+#EXTINF:-1,TV1000 action HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
 #EXTINF:-1,TV1000 action HD
 http://87.117.231.9/iptv/6CBBEEKZV5CG3E/6386/index.m3u8
 #EXTINF:-1,TV 1000 World Kino
@@ -51,6 +63,8 @@ http://188.93.95.83/tv1000rukino/index.m3u8
 http://185.74.7.220:8080/tv1000ru/mpegts
 #EXTINF:-1,TV1000 Русское кино
 http://185.74.7.220:8080/tv1000ru/tracks-v1a1/index.m3u8
+#EXTINF:-1,TV1000 Русское кино HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
 #EXTINF:-1,Кинохит
 http://188.113.190.12/313/video.m3u8
 #EXTINF:0,Кинохит HD
@@ -93,10 +107,14 @@ http://188.93.95.83/kinosemya/index.m3u8
 http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 #EXTINF:-1,Киносвидание HD
 http://94.154.83.88:10000/kinosvidanie
+#EXTINF:-1,Киносвидание HD
+http://212.76.27.27/btv/SWM/Kinosvidanie/Kinosvidanie_720p_3500kbps.m3u8
 #EXTINF:-1,Киносвидание 
 http://188.93.95.83/kinosvidanie/index.m3u8
 #EXTINF:-1,Мужское кино
 https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
+#EXTINF:-1,Мужское кино
+http://fa935409.rossteleccom.net/iptv/EUEN77P22PWQ4W/10045/index.m3u
 #EXTINF:-1,Мужское кино
 http://147.135.210.90:8081/tv/mughskoe-kino/playlist.m3u8
 #EXTINF:-1,Мужское кино HD
@@ -130,23 +148,19 @@ https://autopilot.catcast.tv/content/38896/index.m3u8
 #EXTINF:-1,Страшное HD
 http://95.188.116.4:1234/udp/225.54.53.32:5000
 #EXTINF:-1,Шокирующее HD
-http://spacetv.in/stream/DIPK8H19CP8/75.m3u8
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/9004/index.m3u8
 #EXTINF:-1,Еврокино
 http://188.113.190.12/49/video.m3u8
 #EXTINF:-1,Ужастик
 https://autopilot.catcast.tv/content/38896/index.m3u8
 #EXTINF:-1,VIP HORROR HD
 http://cdnnow.goodgame.ru/hls/178234.m3u8
+#EXTINF:-1,Видеокассета
+http://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1,Остросюжетное HD
-http://188.35.9.18:14050/udp/238.0.14.3:69000
-#EXTINF:-1,Остросюжетное HD
-http://188.35.9.26:5050/002
-#EXTINF:-1,Остросюжетное HD
-http://188.35.9.11:2015
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/9044/index.m3u8
 #EXTINF:-1,Премиальное HD
-http://188.35.9.26:5050/001
-#EXTINF:-1,Премиальное HD
-http://188.35.9.11:2017
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10044/index.m3u8
 #EXTINF:-1,Premium HD
 http://195.154.242.229:3000/mytelegramgroup/premiere_group_chat/19547
 #EXTINF:-1,Thriller HD
@@ -155,6 +169,8 @@ http://195.154.242.229:3000/mytelegramgroup/premiere_group_chat/19677
 http://195.154.242.229:3000/mytelegramgroup/premiere_group_chat/47349
 #EXTINF:-1,Комедийное HD
 http://spacetv.in/stream/DIPK8H19CP8/74.m3u8
+#EXTINF:-1,Комедийное HD
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/9005/index.m3u8
 #EXTINF:-1,Романтичное HD
 http://185.97.150.19:8082/891
 #EXTINF:-1,Кино UHD
@@ -163,6 +179,50 @@ http://zigfreed.ru/VC7/29.m3u8
 http://188.35.9.26:16050/udp/238.0.16.1:69000
 #EXTINF:-1,Кино UHD
 http://188.35.9.18:16050/udp/238.0.16.1:69000
+#EXTINF:-1,VF Adventure
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10000/index.m3u8
+#EXTINF:-1,VF Anime
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10001/index.m3u8
+#EXTINF:-1,VF Comedy
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10003/index.m3u8
+#EXTINF:-1,VF Family
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10004/index.m3u8
+#EXTINF:-1,VF Fantasy
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10005/index.m3u8
+#EXTINF:-1,VF Melodrama
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10006/index.m3u8
+#EXTINF:-1,VF Mystic
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10007/index.m3u8
+#EXTINF:-1,VF Ужасы
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10008/index.m3u8
+#EXTINF:-1,VF VHS MIX
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10009/index.m3u8
+#EXTINF:-1,VF Ужасы VHS
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10010/index.m3u8
+#EXTINF:-1,VF Премьера
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10051/index.m3u8
+#EXTINF:-1,VF Premiere
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10052/index.m3u8
+#EXTINF:-1,VF Классика
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10053/index.m3u8
+#EXTINF:-1,VF Classic
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10054/index.m3u8
+#EXTINF:-1,VF Комедия
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10055/index.m3u8
+#EXTINF:-1,VF Катастрофы
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10080/index.m3u8
+#EXTINF:-1,VF Marvel
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10081/index.m3u8
+#EXTINF:-1,VF Военные
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10082/index.m3u8
+#EXTINF:-1,VF Наша победа
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10083/index.m3u8
+#EXTINF:-1,VF Мосфильм
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10084/index.m3u8
+#EXTINF:-1,VF Фильмы СССР
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10085/index.m3u8
+#EXTINF:-1,VF Боевик
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10087/index.m3u8
 #EXTINF:-1,Настоящее Страшное Телевидение
 http://188.247.191.234/btv/SWM/HCT/HCT_576p_2000kbps.m3u8
 #EXTINF:-1,Настоящее Страшное Телевидение
@@ -173,10 +233,14 @@ http://188.113.190.12/224/tracks-v1a1/index.m3u8?token=gelow7
 http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/2121/index.m3u8
 #EXTINF:-1,VIP Premiere HD
 http://195.189.105.158:9050/134/index.m3u8
+#EXTINF:-1,VIP Premiere HD
+http://iptv.prosto.tv:7000/ch45/video.m3u8
 #EXTINF:-1,VIP Premiere
 http://188.113.190.12/201/video.m3u8
 #EXTINF:-1,VIP Megahit HD
 http://195.189.105.158:9050/133/index.m3u8
+#EXTINF:-1,VIP Megahit HD
+http://iptv.prosto.tv:7000/ch43/video.m3u8
 #EXTINF:-1,VIP Megahit
 http://188.113.190.12/202/video.m3u8
 #EXTINF:-1,VIP Megahit HD
@@ -185,6 +249,8 @@ http://zigfreed.ru/VC7/60.m3u8
 http://188.35.9.11:2016
 #EXTINF:-1,VIP Comedy FHD
 http://195.189.105.158:9050/132/index.m3u8
+#EXTINF:-1,VIP Comedy HD
+http://iptv.prosto.tv:7000/ch44/video.m3u8
 #EXTINF:-1,VIP Comedy
 http://188.113.190.12/203/video.m3u8
 #EXTINF:-1,VIP Serial HD
@@ -195,14 +261,26 @@ http://zigfreed.ru/VC7/59.m3u8
 http://188.93.95.83/healthtv/index.m3u8
 #EXTINF:-1,VIP Family
 http://188.93.95.83/tv5/index.m3u8
+#EXTINF:-1,Fox HD
+http://176.222.187.146:80/btv/SWM/FOX/FOX_720p_3500kbps.m3u8
 #EXTINF:-1,Amedia 1
 http://194.156.166.2:8000/play/a01o
 #EXTINF:-1,Amedia 1
+http://188.113.190.12/79/video.m3u8
+#EXTINF:-1,Amedia 1 HD
+http://87.247.44.25:80/btv/SWM/A1/A1_1080p_5000kbps.m3u8
+#EXTINF:-1,Amedia 1
 http://188.93.95.83/amedia/index.m3u8
+#EXTINF:-1,Amedia 2
+http://188.113.190.12/134/video.m3u8
 #EXTINF:-1,Amedia Hit
 http://188.93.95.83/amediahit/index.m3u8
+#EXTINF:-1,Amedia Hit
+http://91.237.126.50:9001/udp/239.10.12.128:1234?token=test
 #EXTINF:-1,Amedia Hit HD
 https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1,Amedia Premium
+http://188.113.190.12/140/video.m3u8
 #EXTINF:-1,Eurokino
 http://188.93.95.83/eurokino/index.m3u8
 #EXTINF:-1,Eurokino
@@ -215,10 +293,22 @@ http://188.113.190.12/127/video.m3u8
 http://cloudcdn.tk:80/MersicJazvan/QblY8413/23827
 #EXTINF:-1,Hollywood
 http://87.117.231.9/iptv/6CBBEEKZV5CG3E/9017/index.m3u8
+#EXTINF:-1,Hollywood HD
+http://iptv.prosto.tv:7000/ch50/video.m3u8
+#EXTINF:-1,Sony HD
+http://188.113.190.12/149/video.m3u8
+#EXTINF:-1,Sony
+http://188.113.190.12/22/video.m3u8
 #EXTINF:-1,Sony Turbo
 http://live02-cdn.tv.ti.ru:80/dtv/id157_NBN_SG--SonyTurbo/02/plst.m3u8
+#EXTINF:-1,Sony Turbo
+http://188.113.190.12/186/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sony Sci-Fi
+http://188.113.190.12/23/video.m3u8
 #EXTINF:-1,Иллюзион+
 http://188.113.190.12/45/tracks-v1a1/index.m3u8
+#EXTINF:-1,AMC
+http://iptv.prosto.tv:7000/ch209/video.m3u8
 #EXTINF:-1,Русский Детектив
 http://188.113.190.12/164/tracks-v1a1/index.m3u8
 #EXTINF:-1,Русский Бестселлер
@@ -229,6 +319,10 @@ http://86.57.178.105:10823
 http://87.117.231.9/iptv/6CBBEEKZV5CG3E/9133/index.m3u8
 #EXTINF:-1,Cinema
 https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:-1,Cinema
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:-1,Cinema
+http://87.247.44.26/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
 #EXTINF:-1,Кино 1
 http://v2.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1,Кинозал (Гал ТВ)
@@ -255,6 +349,8 @@ http://188.35.9.26:12030/udp/160l
 https://sc.id-tv.kz/domkino_hd_38_39.m3u8
 #EXTINF:-1,Paramount Comedy
 http://89.189.191.250/239.211.211.73/stream.m3u8
+#EXTINF:-1,Paramount Comedy
+http://iptv.prosto.tv:7000/ch60/video.m3u8
 #EXTINF:-1,Комедия ТВ
 http://51.195.44.53:8081/tv/rus-comedy/chunks.m3u8
 #EXTINF:-1,Комедия ТВ
@@ -381,15 +477,27 @@ http://82.138.2.50:1935/live/TeoTV.stream_720p/playlist.m3u8
 #EXTINF:-1,Nickelodeon HD
 http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/223/index.m3u8
 #EXTINF:-1,Nickelodeon
+http://iptv.prosto.tv:7000/ch68/video.m3u8
+#EXTINF:-1,Nickelodeon
 http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/541/index.m3u8
 #EXTINF:-1,Nickelodeon
 http://hlstv.kem.211.ru/239.211.211.30/stream.m3u8
+#EXTINF:-1,NickToons
+http://iptv.prosto.tv:7000/ch70/video.m3u8
 #EXTINF:-1,Nick Jr.
 http://188.168.23.240:81/udp/233.12.144.85:5050
+#EXTINF:-1,Nick Jr.
+http://iptv.prosto.tv:7000/ch69/video.m3u8
+#EXTINF:-1,NIKI Kids
+http://iptv.prosto.tv:7000/ch71/video.m3u8
+#EXTINF:-1,NIKI Junior
+http://iptv.prosto.tv:7000/ch72/video.m3u8
 #EXTINF:-1,Disney
 http://51.68.141.106:8081/tv/disney/playlist.m3u8
 #EXTINF:-1,Cartoon Network
 http://51.68.141.106:8081/tv/cartoon-network/playlist.m3u8
+#EXTINF:-1,Cartoon Network
+http://iptv.prosto.tv:7000/ch207/video.m3u8
 #EXTINF:-1,Cartoon Network
 http://51.68.141.106:8081/tv/cartoon-network/chunks.m3u8
 #EXTINF:-1,Cartoon Network
@@ -416,6 +524,8 @@ http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
 http://80.89.196.34:8085/travel/index.m3u8
 #EXTINF:-1,Da Vinchi Kids
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
+#EXTINF:-1,Da Vinchi Kids
+http://iptv.prosto.tv:7000/ch78/video.m3u8
 #EXTINF:-1,Наука 2.0
 http://94.230.240.12:8080/nauka2/index.m3u8
 #EXTINF:-1,Наука 2.0
@@ -458,14 +568,32 @@ http://147.135.210.90:8081/tv/Discovery/chunks.m3u8
 http://188.247.191.234/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
 #EXTINF:-1,Discovery Science
 http://51.195.44.53:8081/tv/discovery-science/playlist.m3u8
+#EXTINF:-1,Discovery Science
+http://185.74.4.46:8080/stch_temp10/mpegts
+#EXTINF:-1,Discovery Science
+http://cloudcdn.tk:80/MersicJazvan/QblY8413/72691
+#EXTINF:-1,ID Extra
+http://188.113.190.12/173/video.m3u8
 #EXTINF:0,Da Vinci
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1,Da Vinci Learning
 http://188.93.95.83/davinci/index.m3u8
-#EXTINF:-1,Viasat History
-http://188.93.95.83/viasathist/index.m3u8
+#EXTINF:-1,Viasat Explore HD
+http://cloudcdn.tk:80/MersicJazvan/QblY8413/11986
+#EXTINF:-1,Viasat Explore
+http://188.113.190.12/32/video.m3u8
 #EXTINF:-1,Viasat Explore
 http://188.93.95.83/viasatexp/index.m3u8
+#EXTINF:-1,Viasat History HD
+http://185.74.4.46:8080/stch_temp20/mpegts
+#EXTINF:-1,Viasat History
+http://188.93.95.83/viasathist/index.m3u8
+#EXTINF:-1,Viasat History
+http://188.113.190.12/33/video.m3u8
+#EXTINF:-1,Viasat Nature
+http://188.113.190.12/28/video.m3u8
+#EXTINF:-1,Viasat Nature
+http://cloudcdn.tk:80/MersicJazvan/QblY8413/12284
 #EXTINF:-1,Travel+Adventure
 http://188.93.95.83/viasatnat/index.m3u8
 #EXTINF:-1,Под Водой FHD
@@ -474,14 +602,22 @@ http://live-1.otcnet.ru/podvodoi/index.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
 #EXTINF:-1,National Geographic Wild HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1,National Geographic HD
+http://212.76.27.27/btv/SWM/NatGeo_channel/NatGeo_channel.m3u8
+#EXTINF:-1,National Geographic HD
+http://87.247.44.26/btv/SWM/NatGeo_channel/NatGeo_channel_1080p_5000kbps.m3u8
 #EXTINF:-1,National Geographic
 http://51.195.44.53:8081/tv/national-geographic/chunks.m3u8
 #EXTINF:-1,Nat Geo Wild
 http://sc.id-tv.kz/NatGeoWildHD_38_39.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1,Net Geo Wild
 http://51.195.44.53:8081/tv/nat-geo-wild/playlist.m3u8
 #EXTINF:-1,Animal Planet
 http://51.195.44.53:8081/tv/animal-planet/chunks.m3u8
+#EXTINF:-1,Animal Planet
+http://185.74.7.220:8080/animal/tracks-v1a1/index.m3u8
 #EXTINF:-1,Большая Азия
 http://89.189.191.250/239.211.211.162/stream.m3u8
 #EXTINF:-1,Трофей HD
@@ -756,6 +892,8 @@ http://live02-cdn.tv.ti.ru:80/dtv/id204_NBN_SG--DiscoveryWorld/03/plst.m3u8
 https://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1,HDL
 http://89.106.234.3:80/hdl_38_39.m3u8
+#EXTINF:-1,HD Life HD
+http://87.247.44.25:80/btv/SWM/HDLife/HDLife_1080p_5000kbps.m3u8
 #EXTINF:-1,Живи!
 http://live02-cdn.tv.ti.ru:80/dtv/id144_NBN_SG--Zhivi/02/plst.m3u8
 #EXTINF:-1,Открытый Мир
@@ -764,10 +902,20 @@ http://live02-cdn.tv.ti.ru:80/dtv/id699_NBN_SG--otkritij_mir/03/plst.m3u8
 http://live02-cdn.tv.ti.ru:80/dtv/id371_NBN_SG--Zagorodnaya_zhizn/01/plst.m3u8
 #EXTINF:-1 ,HD Fashion & Lifestyle
 http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
+#EXTINF:-1,Fashion & LifeStyle
+http://iptv.prosto.tv:7000/ch145/video.m3u8
 #EXTINF:-1 ,HD Fashion & Lifestyle [FHD]
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1,Fashion TV
 http://live02-cdn.tv.ti.ru:80/dtv/id713_NBN_SG--fashiontv/03/plst.m3u8
+#EXTINF:-1,Fashion TV
+http://iptv.prosto.tv:7000/ch143/video.m3u8
+#EXTINF:-1,FashionBox HD
+http://iptv.prosto.tv:7000/ch144/video.m3u8
+#EXTINF:-1,HDFashion
+http://iptv.prosto.tv:7000/ch146/video.m3u8
+#EXTINF:-1,UA Fashion TV
+http://iptv.prosto.tv:7000/ch216/video.m3u8
 #EXTINF:-1,Spike
 http://live02-cdn.tv.ti.ru:80/dtv/id505_NBN_SG--Spike/03/plst.m3u8
 #EXTINF:-1,О!Кино
@@ -792,6 +940,22 @@ http://live02-cdn.tv.ti.ru:80/dtv/id781_NBN_SG--Nashatema/03/plst.m3u8
 http://live02-cdn.tv.ti.ru:80/dtv/id225_NBN_SG--RTG/03/plst.m3u8
 #EXTINF:-1,Точка Отрыва
 http://live02-cdn.tv.ti.ru:80/dtv/id1051_NBN_SG--TochkaOtriva/03/plst.m3u8
+#EXTINF:-1,MTV Europe
+http://iptv.prosto.tv:7000/ch124/video.m3u8
+#EXTINF:-1,MTV Dance
+http://iptv.prosto.tv:7000/ch125/video.m3u8
+#EXTINF:-1,MTV Hit
+http://iptv.prosto.tv:7000/ch126/video.m3u8
+#EXTINF:-1,MTV Rock
+http://iptv.prosto.tv:7000/ch127/video.m3u8
+#EXTINF:-1,MTV Live HD
+http://iptv.prosto.tv:7000/ch128/video.m3u8
+#EXTINF:-1,VH 1 European
+http://iptv.prosto.tv:7000/ch129/video.m3u8
+#EXTINF:-1,VH 1 Classic
+http://iptv.prosto.tv:7000/ch130/video.m3u8
+#EXTINF:-1,EU MUSIC HD
+http://iptv.prosto.tv:7000/ch134/video.m3u8
 #EXTINF:-1,Musicbox Gold
 http://live02-cdn.tv.ti.ru:80/dtv/id220_NBN_SG--musicbox/03/plst.m3u8
 #EXTINF:-1,ТНТ Music
