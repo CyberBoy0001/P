@@ -29,12 +29,6 @@ http://iptv.prosto.tv:7000/ch65/video.m3u8
 http://188.247.191.234/btv/SWM/tlc_hd/tlc_hd_720p_3500kbps.m3u8
 #EXTINF:-1,TLC HD
 http://cloudcdn.tk:80/MersicJazvan/QblY8413/27135
-#EXTINF:-1,TLC
-http://edge04.beetv.kz/btv/SWM/TLC/TLC_576p_2000kbps.m3u8
-#EXTINF:-1,TV1000
-https://s4.idata.uz/TV1000/index.m3u8
-#EXTINF:-1,TV1000
-http://185.74.7.220:8080/TV1000/mpegts
 #EXTINF:-1,TV1000
 http://iptv.prosto.tv:7000/ch46/video.m3u8
 #EXTINF:-1,TV1000
