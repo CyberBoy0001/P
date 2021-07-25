@@ -1,22 +1,20 @@
 #EXTM3U
 #EXTINF:-1,Nickelodeon
-http://109.248.89.135:4044/udp/239.195.1.38:1234
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/223/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://iptv.prosto.tv:7000/ch68/video.m3u8
+#EXTINF:-1,Nickelodeon
+http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/541/index.m3u8
+#EXTINF:-1,NickToons
+http://iptv.prosto.tv:7000/ch70/video.m3u8
 #EXTINF:-1,Nick Jr.
-http://188.168.23.240:81/udp/233.12.144.85:5050
+http://iptv.prosto.tv:7000/ch69/video.m3u8
+#EXTINF:-1,NIKI Kids
+http://iptv.prosto.tv:7000/ch71/video.m3u8
+#EXTINF:-1,NIKI Junior
+http://iptv.prosto.tv:7000/ch72/video.m3u8
 #EXTINF:-1,Cartoon Network
-http://51.68.141.106:8081/tv/cartoon-network/playlist.m3u8
-#EXTINF:-1,Cartoon Network
-http://51.68.141.106:8081/tv/cartoon-network/chunks.m3u8
-#EXTINF:-1,Cartoon Network
-http://37.195.69.6:81/udp/239.1.3.3:1234
-#EXTINF:-1,Cartoon Network
-http://51.68.141.106:8081/tv/cartoon-network/playlist.m3u8
-#EXTINF:-1,Disney
-http://tv.home-iptv.ru:8000/live/NndqUU6Xoe/mV6O7VmqLx/67.ts
-#EXTINF:-1,Da Vinci Kids
-http://188.93.95.83/davinci/index.m3u8
-#EXTINF:-1,Da Vinchi Kids
-https://sc.id-tv.kz/DaVinci_34_35.m3u8
+http://iptv.prosto.tv:7000/ch207/video.m3u8
 #EXTINF:-1,Мульт
 https://autopilot.catcast.tv/content/38850/index.m3u8
 #EXTINF:-1 ,Мультиландия
@@ -25,9 +23,11 @@ http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
 http://autopilot.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1,Детское Кино
 http://v2.catcast.me/content/38720/index.m3u8
-#EXTINF:-1,Аниме канал
-https://v2.catcast.tv/content/35676/index.m3u8
 #EXTINF:0,Мультиландия
 http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
 #EXTINF:-1,Рыжий
 http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
+#EXTINF:-1,Da Vinchi Kids
+https://sc.id-tv.kz/DaVinci_34_35.m3u8
+#EXTINF:-1,Da Vinchi Kids
+http://iptv.prosto.tv:7000/ch78/video.m3u8
