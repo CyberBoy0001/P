@@ -30,10 +30,6 @@ http://188.247.191.234/btv/SWM/tlc_hd/tlc_hd_720p_3500kbps.m3u8
 #EXTINF:-1,TLC
 http://cloudcdn.tk:80/MersicJazvan/QblY8413/27135
 #EXTINF:-1,TV1000
-http://iptv.prosto.tv:7000/ch46/video.m3u8
-#EXTINF:-1,TV1000
-http://iptv.prosto.tv:7000/ch46/video.m3u8
-#EXTINF:-1,TV1000
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
 #EXTINF:-1,TV1000 action
 http://188.113.190.12/30/tracks-v1a1/index.m3u8?token=gelow7
@@ -700,6 +696,8 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,Русская ночь
 http://93.189.224.117:9030/russkayanoch?wowzasessionid=941057740302&time=1463063123262
+#EXTINF:-1,Brazzers TV
+http://iptvhello.com/brazzers.m3u8
 #EXTINF:-1,Brazzers TV
 http://xcui.vitvabc.xyz:8880/Carlos/Carlos/18381
 #EXTINF:-1,Redlight HD
