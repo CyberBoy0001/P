@@ -26,9 +26,9 @@ http://sibiev54.amazzin.pw/iptv/2XBPNFMZKED9RN/743/index.m3u8
 #EXTINF:-1,Квартал ТВ
 http://iptv.prosto.tv:7000/ch65/video.m3u8
 #EXTINF:-1,TLC
-http://188.247.191.234/btv/SWM/tlc_hd/tlc_hd_720p_3500kbps.m3u8
+http://46.34.209.244:80/btv/SWM/tlc_hd/tlc_hd_720p_3500kbps.m3u8
 #EXTINF:-1,TLC
-http://cloudcdn.tk:80/MersicJazvan/QblY8413/27135
+http://46.34.209.244:80/btv/SWM/tlc_hd/tlc_hd_1080p_5000kbps.m3u8
 #EXTINF:-1,TV1000
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
 #EXTINF:-1,TV1000 action
@@ -52,7 +52,7 @@ http://74.102.118.117:8812/udp/127.0.0.1:5311
 #EXTINF:-1,TV1000 Русское кино
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
 #EXTINF:-1,Кинохит
-http://188.113.190.12/313/video.m3u8
+http://109.239.128.126:8080/kinohit/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Наше новое кино
 http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
 #EXTINF:-1,Наше новое кино
@@ -82,6 +82,8 @@ http://188.113.190.12/323/video.m3u8
 http://37.99.5.235:80/btv/SWM/KinoUzhas/KinoUzhas_576p_2000kbps.m3u8
 #EXTINF:-1,Киносерия
 http://176.222.164.72:80/btv/SWM/Kinoserija/Kinoserija_576p_2000kbps.m3u8
+#EXTINF:-1,Кино ТВ
+http://109.239.128.126:8080/kino_tv_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Кино ТВ
 http://31.128.159.41:8080/kinotv/index.m3u8
 #EXTINF:-1,Кино ТВ
@@ -710,6 +712,8 @@ http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
 http://37.235.200.88:81/udp/225.50.70.4:1234
 #EXTINF:-1,Adult Time
 http://xcui.vitvabc.xyz:8880/Carlos/Carlos/18381
+#EXTINF:-1,HotClub 2 FHD Adult
+http://cdn.redtraffic.net/bigass.m3u8
 #EXTINF:-1,HotClub 2 FHD Adult
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1,Hustler HD Europe
