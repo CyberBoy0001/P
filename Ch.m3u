@@ -35,8 +35,6 @@ https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
 #EXTINF:-1,TV 1000 World Kino
 http://iptv.prosto.tv:7000/ch48/video.m3u8
-#EXTINF:-1,TV 1000 World Kino
-http://31.202.57.42:4022/udp/239.2.4.6:1234
 #EXTINF:-1,TV1000 Русское кино
 http://74.102.118.117:8812/udp/127.0.0.1:5311
 #EXTINF:-1,TV1000 Русское кино
@@ -45,113 +43,40 @@ https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
 http://109.239.128.126:8080/kinohit/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Наше новое кино
 http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
-#EXTINF:-1,Наше новое кино
-http://118.47.168.157:8080/play/a01t/index.m3u8
-#EXTINF:-1,Наше новое кино HD
-http://87.247.44.26/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
 #EXTINF:1,Киномикс FHD
 #EXTINF:1,Кинопремьера
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
-#EXTINF:1,Кинопремьера
-http://zigfreed.ru/VC7/113.m3u8
 #EXTINF:0,Кинокомедия
 http://87.247.44.26/btv/SWM/Kinokomedija/Kinokomedija_1080p_5000kbps.m3u8
 #EXTINF:-1,Киносемья
 https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
 #EXTINF:-1,Киносвидание
 http://94.154.83.88:10000/kinosvidanie
-#EXTINF:-1,Киносвидание
-http://212.76.27.27/btv/SWM/Kinosvidanie/Kinosvidanie_720p_3500kbps.m3u8
 #EXTINF:-1,Мужское кино
 https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
-#EXTINF:-1,Мужское кино
-http://fa935409.rossteleccom.net/iptv/EUEN77P22PWQ4W/10045/index.m3u
-#EXTINF:-1,Киноужас
-http://188.113.190.12/323/video.m3u8
 #EXTINF:-1,Киноужас
 http://37.99.5.235:80/btv/SWM/KinoUzhas/KinoUzhas_576p_2000kbps.m3u8
-#EXTINF:-1,Киносерия
-http://176.222.164.72:80/btv/SWM/Kinoserija/Kinoserija_576p_2000kbps.m3u8
 #EXTINF:-1,Кино ТВ
 http://109.239.128.126:8080/kino_tv_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Кино ТВ
-http://31.128.159.41:8080/kinotv/index.m3u8
-#EXTINF:-1,Кино ТВ
-http://118.47.168.157:8080/play/a014/index.m3u8
 #EXTINF:-1,Film ХИТ1
 https://hls.myvideocontent.ru/hls/vipcinemahd/index.m3u8
 #EXTINF:-1,Ужастик
 https://autopilot.catcast.tv/content/38896/index.m3u8
-#EXTINF:-1,Шокирующее
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/9004/index.m3u8
-#EXTINF:-1,Еврокино
-http://188.113.190.12/49/video.m3u8
 #EXTINF:-1,Видеокассета
 http://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1,Остросюжетное
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/9044/index.m3u8
+
 #EXTINF:-1,Премиальное
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10044/index.m3u8
+
 #EXTINF:-1,Комедийное
-http://spacetv.in/stream/DIPK8H19CP8/74.m3u8
+
 #EXTINF:-1,Комедийное
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/9005/index.m3u8
+
 #EXTINF:-1,Романтичное HD
-http://185.97.150.19:8082/891
+
 #EXTINF:-1,Кино UHD
-http://zigfreed.ru/VC7/29.m3u8
-#EXTINF:-1,VF Adventure
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10000/index.m3u8
-#EXTINF:-1,VF Anime
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10001/index.m3u8
-#EXTINF:-1,VF Comedy
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10003/index.m3u8
-#EXTINF:-1,VF Family
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10004/index.m3u8
-#EXTINF:-1,VF Fantasy
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10005/index.m3u8
-#EXTINF:-1,VF Melodrama
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10006/index.m3u8
-#EXTINF:-1,VF Mystic
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10007/index.m3u8
-#EXTINF:-1,VF Ужасы
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10008/index.m3u8
-#EXTINF:-1,VF VHS MIX
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10009/index.m3u8
-#EXTINF:-1,VF Ужасы VHS
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10010/index.m3u8
-#EXTINF:-1,VF Премьера
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10051/index.m3u8
-#EXTINF:-1,VF Premiere
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10052/index.m3u8
-#EXTINF:-1,VF Классика
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10053/index.m3u8
-#EXTINF:-1,VF Classic
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10054/index.m3u8
-#EXTINF:-1,VF Комедия
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10055/index.m3u8
-#EXTINF:-1,VF Катастрофы
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10080/index.m3u8
-#EXTINF:-1,VF Marvel
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10081/index.m3u8
-#EXTINF:-1,VF Военные
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10082/index.m3u8
-#EXTINF:-1,VF Наша победа
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10083/index.m3u8
-#EXTINF:-1,VF Мосфильм
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10084/index.m3u8
-#EXTINF:-1,VF Фильмы СССР
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10085/index.m3u8
-#EXTINF:-1,VF Боевик
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/10087/index.m3u8
-#EXTINF:-1,Настоящее Страшное Телевидение
-http://188.247.191.234/btv/SWM/HCT/HCT_576p_2000kbps.m3u8
-#EXTINF:-1,Настоящее Страшное Телевидение
-http://118.47.168.157:8080/play/a00v/index.m3u8
-#EXTINF:-1,Киносат
-http://188.113.190.12/224/tracks-v1a1/index.m3u8?token=gelow7
-#EXTINF:-1,Киносат
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/2121/index.m3u8
+
+
 #EXTINF:-1,VIP Premiere
 http://iptv.prosto.tv:7000/ch45/video.m3u8
 #EXTINF:-1,VIP Premiere
