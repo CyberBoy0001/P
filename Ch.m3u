@@ -31,8 +31,12 @@ http://46.34.209.244:80/btv/SWM/tlc_hd/tlc_hd_720p_3500kbps.m3u8
 http://46.34.209.244:80/btv/SWM/tlc_hd/tlc_hd_1080p_5000kbps.m3u8
 #EXTINF:-1,TV1000
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+#EXTINF:-1,TV1000
+http://dmitry-tv.ml/hls/CH_TV1000HD.m3u8
 #EXTINF:-1,TV1000 action
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+#EXTINF:-1,TV1000 action
+http://dmitry-tv.ml/hls/CH_TV1000ACTIONHD.m3u8
 #EXTINF:-1,TV 1000 World Kino
 http://iptv.prosto.tv:7000/ch48/video.m3u8
 #EXTINF:-1,TV1000 Русское кино
@@ -43,6 +47,10 @@ https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
 http://109.239.128.126:8080/kinohit/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Наше новое кино
 http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
+#EXTINF:-1,Наше новое кино
+http://37.99.5.234/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
+#EXTINF:-1,Наше новое кино
+http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_720p_3500kbps.m3u8
 #EXTINF:1,Киномикс FHD
 #EXTINF:1,Кинопремьера
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
@@ -52,30 +60,77 @@ http://87.247.44.26/btv/SWM/Kinokomedija/Kinokomedija_1080p_5000kbps.m3u8
 https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
 #EXTINF:-1,Киносвидание
 http://94.154.83.88:10000/kinosvidanie
+#EXTINF:-1,Киносвидание
+http://37.99.5.234/btv/SWM/Kinosvidanie/Kinosvidanie_720p_3500kbps.m3u8
+#EXTINF:-1,Киносвидание
+http://37.99.5.234/btv/SWM/Kinosvidanie/Kinosvidanie_720p_3500kbps.m3u8
 #EXTINF:-1,Мужское кино
 https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
 #EXTINF:-1,Киноужас
+http://109.239.128.126:8080/kinouzhas/tracks-v2a1/mono.m3u8
+#EXTINF:-1,Киноужас
 http://37.99.5.235:80/btv/SWM/KinoUzhas/KinoUzhas_576p_2000kbps.m3u8
+#EXTINF:-1,Киноужас
+http://37.99.5.234/btv/SWM/KinoUzhas/KinoUzhas_576p_2000kbps.m3u8
+#EXTINF:-1,Страшное
+http://185.228.135.48:8080/tv_strashnoe_hd/index.m3u8
+#EXTINF:-1,Шокирующее
+http://185.228.135.48:8080/tv_shokiruushee_hd/index.m3u8
+#EXTINF:-1,Ужастик
+https://autopilot.catcast.tv/content/38896/index.m3u8
+#EXTINF:-1,Киносерия
+http://37.99.5.234/btv/SWM/Kinoserija/Kinoserija_576p_2000kbps.m3u8
+#EXTINF:-1,Киносерия
+http://109.239.128.126:8080/kinoseria/tracks-v2a1/mono.m3u8
 #EXTINF:-1,Кино ТВ
 http://109.239.128.126:8080/kino_tv_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Film ХИТ1
 https://hls.myvideocontent.ru/hls/vipcinemahd/index.m3u8
-#EXTINF:-1,Ужастик
-https://autopilot.catcast.tv/content/38896/index.m3u8
+#EXTINF:-1,Кинопоказ
+http://91.221.201.2:7006/play/a002/index.m3u8
+#EXTINF:-1,Комедийное
+http://185.228.135.48:8080/tv_komediynoe_hd/index.m3u8
 #EXTINF:-1,Видеокассета
 http://v2.catcast.tv/content/37925/index.m3u8
-#EXTINF:-1,Остросюжетное
+#EXTINF:-1,Cinema
+http://46.34.209.242:80/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
+#EXTINF:-1,Еврокино
+http://46.34.209.243/btv/SWM/Eurokino/Eurokino_576p_2000kbps.m3u8
+#EXTINF:-1,Еврокино
+http://37.99.5.235/btv/SWM/Eurokino/Eurokino_576p_2000kbps.m3u8
 
-#EXTINF:-1,Премиальное
+Остросюжетное
 
-#EXTINF:-1,Комедийное
+Премиальное
 
-#EXTINF:-1,Комедийное
-
-#EXTINF:-1,Романтичное HD
+Романтичное HD
 
 #EXTINF:-1,Кино UHD
+#EXTINF:-1,Paradox
+http://195.154.242.229/Paradox_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:-1,Premiere
+http://195.154.242.229/Premiere_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:-1,Premium
+http://195.154.242.229/Premium_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:-1,Thriller
+http://195.154.242.229/Thriller_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:-1,Victory
+http://195.154.242.229/Victory_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:-1,VHS
+http://195.154.242.229/VHS_HD/video.m3u8?token=MXjzqOlW50
+#EXTINF:-1,Film Box
+http://94.230.240.17:8080/film_box/index.m3u8
+#EXTINF:-1,Fenix+Kino
+https://okkotv-live.cdnvideo.ru/channel/Phoenix.m3u8
 
+#EXTINF:-1,VIP Premiere
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+#EXTINF:-1,VIP Megahit
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:-1,VIP Comedy
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+#EXTINF:-1,VIP Serial
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
 
 #EXTINF:-1,VIP Premiere
 http://iptv.prosto.tv:7000/ch45/video.m3u8
@@ -97,6 +152,24 @@ http://87.117.231.9/iptv/6CBBEEKZV5CG3E/2443/index.m3u8
 http://zigfreed.ru/VC7/59.m3u8
 #EXTINF:-1,Fox
 http://176.222.187.146:80/btv/SWM/FOX/FOX_720p_3500kbps.m3u8
+#EXTINF:-1,Fox
+http://37.99.5.234/btv/SWM/FOX/FOX_720p_3500kbps.m3u8
+#EXTINF:-1,Fox
+http://37.99.5.234/btv/SWM/FOX/FOX_1080p_5000kbps.m3u8
+#EXTINF:-1,Fox life
+http://37.99.5.234/btv/SWM/FoxLife/FoxLife_720p_3500kbps.m3u8
+#EXTINF:-1,Fox life
+http://37.99.5.234/btv/SWM/FoxLife/FoxLife_1080p_5000kbps.m3u8
+#EXTINF:-1,A HIT
+http://46.34.209.243:80/btv/SWM/AmediaHitHD/AmediaHitHD_1080p_5000kbps.m3u8
+#EXTINF:-1,A HIT
+http://46.34.209.243:80/btv/SWM/AmediaHitHD/AmediaHitHD_720p_3500kbps.m3u8
+#EXTINF:-1,A Premium
+http://46.34.209.243:80/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD.m3u8
+#EXTINF:-1,A1
+http://46.34.209.243:80/btv/SWM/A1/A1_720p_3500kbps.m3u8
+#EXTINF:-1,A2
+http://46.34.209.243:80/btv/SWM/A2/A2_576p_2000kbps.m3u8
 #EXTINF:-1,Amedia 1
 http://188.113.190.12/79/video.m3u8
 #EXTINF:-1,Amedia 1
@@ -116,6 +189,12 @@ http://188.113.190.12/127/video.m3u8
 #EXTINF:-1,Paramount Comedy
 http://cloudcdn.tk:80/MersicJazvan/QblY8413/23827
 #EXTINF:-1,Hollywood
+http://37.99.5.234/btv/SWM/Hollywood/Hollywood.m3u8
+#EXTINF:-1,Hollywood
+http://46.34.209.243:80/btv/SWM/Hollywood/Hollywood_576p_2000kbps.m3u8
+#EXTINF:-1,Hollywood
+http://46.34.209.243:80/btv/SWM/Hollywood/Hollywood.m3u8
+#EXTINF:-1,Hollywood
 http://87.117.231.9/iptv/6CBBEEKZV5CG3E/9017/index.m3u8
 #EXTINF:-1,Hollywood
 http://iptv.prosto.tv:7000/ch50/video.m3u8
@@ -124,6 +203,8 @@ http://188.113.190.12/149/video.m3u8
 #EXTINF:-1,Sony
 http://188.113.190.12/22/video.m3u8
 #EXTINF:-1,Sony Turbo
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
+#EXTINF:-1,Sony Turbo
 http://live02-cdn.tv.ti.ru:80/dtv/id157_NBN_SG--SonyTurbo/02/plst.m3u8
 #EXTINF:-1,Sony Turbo
 http://188.113.190.12/186/tracks-v1a1/index.m3u8
@@ -131,6 +212,8 @@ http://188.113.190.12/186/tracks-v1a1/index.m3u8
 http://188.113.190.12/23/video.m3u8
 #EXTINF:-1,Иллюзион+
 http://188.113.190.12/45/tracks-v1a1/index.m3u8
+#EXTINF:-1,НТМ
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
 #EXTINF:-1,AMC
 http://iptv.prosto.tv:7000/ch209/video.m3u8
 #EXTINF:-1,Русский Детектив
@@ -304,26 +387,60 @@ http://live02-cdn.tv.ti.ru:80/dtv/id177_NBN_SG--tv3/03/plst.m3u8
 http://live02-cdn.tv.ti.ru:80/dtv/id148_NBN_SG--TVC/03/plst.m3u8
 #EXTINF:-1,Ю
 http://live02-cdn.tv.ti.ru:80/dtv/id115_NBN_SG--u-channel/03/plst.m3u8
+#EXTINF:-1,Food Network
+http://185.228.135.48:8080/tv_food_network_hd/index.m3u8
+#EXTINF:-1,ЕДА Премиум
+http://185.228.135.48:8080/tv_eda_premium_hd/index.m3u8
 #EXTINF:-1,Travel Guid-TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+#EXTINF:-1,Discovery Channel
+http://46.34.209.244:80/btv/SWM/discovery_hd/discovery_hd_1080p_5000kbps.m3u8
+#EXTINF:-1,Discovery Channel
+http://46.34.209.244:80/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
+#EXTINF:-1,Discovery Channel
+http://80.76.245.198:12284/33
 #EXTINF:-1,Discovery Channel
 http://188.247.191.234/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
 #EXTINF:-1,Discovery Science
 http://cloudcdn.tk:80/MersicJazvan/QblY8413/72691
+#EXTINF:-1,Animal Planet
+http://46.34.209.244:80/btv/SWM/animal_hd/animal_hd_1080p_5000kbps.m3u8
+#EXTINF:-1,Animal Planet
+http://46.34.209.244:80/btv/SWM/animal_hd/animal_hd_720p_3500kbps.m3u8
 #EXTINF:-1,ID Extra
 http://188.113.190.12/173/video.m3u8
 #EXTINF:0,Da Vinci
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1,Viasat Explore
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
+#EXTINF:-1,Viasat Explore
 http://cloudcdn.tk:80/MersicJazvan/QblY8413/11986
 #EXTINF:-1,Viasat Explore
 http://188.113.190.12/32/video.m3u8
 #EXTINF:-1,Viasat History
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
+#EXTINF:-1,Viasat History
 http://188.113.190.12/33/video.m3u8
+#EXTINF:-1,Viasat History
+http://91.185.3.218:4000/play/323
+#EXTINF:-1,Viasat Nature
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 #EXTINF:-1,Viasat Nature
 http://188.113.190.12/28/video.m3u8
 #EXTINF:-1,Viasat Nature
+http://91.185.3.218:4000/play/304
+#EXTINF:-1,Viasat Nature
 http://cloudcdn.tk:80/MersicJazvan/QblY8413/12284
+#EXTINF:-1,History
+http://46.34.209.244:80/btv/SWM/HistoryHD/HistoryHD_1080p_5000kbps.m3u8
+#EXTINF:-1,History
+http://46.34.209.244:80/btv/SWM/HistoryHD/HistoryHD_720p_3500kbps.m3u8
+#EXTINF:-1,H2
+http://46.34.209.244:80/btv/SWM/History2HD/History2HD_1080p_5000kbps.m3u8
+#EXTINF:-1,H2
+http://46.34.209.244:80/btv/SWM/History2HD/History2HD_720p_3500kbps.m3u8
+#EXTINF:-1,NASA TV
+https://helga.iptv2022.com/NASA_TV_Media_eng/tracks-v1a1/mono.m3u8
 #EXTINF:-1,LOVE NATURE
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
 #EXTINF:-1,National Geographic Wild HD
