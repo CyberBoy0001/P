@@ -49,6 +49,8 @@ http://74.102.118.117:8812/udp/127.0.0.1:5311
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
 #EXTINF:-1,Кинохит
 https://sc.id-tv.kz/Kinohit_hd.m3u8
+#EXTINF:-1,Кинохит
+https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 #EXTINF:-1,Наше новое кино
 http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
 #EXTINF:-1,Наше новое кино
@@ -57,6 +59,8 @@ http://37.99.5.234/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
 http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_720p_3500kbps.m3u8
 #EXTINF:1,Киномикс
 https://sc.id-tv.kz/Kinomix_hd.m3u88
+#EXTINF:1,Киномикс
+https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
 #EXTINF:1,Кинопремьера
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 #EXTINF:0,Кинокомедия
@@ -65,6 +69,10 @@ http://87.247.44.26/btv/SWM/Kinokomedija/Kinokomedija_1080p_5000kbps.m3u8
 https://sc.id-tv.kz/Kinosemiya_hd.m3u8
 #EXTINF:-1,Киносемья
 https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1,Кинокомедия
+https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+#EXTINF:-1,Киносвидание
+https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 #EXTINF:-1,Киносвидание
 https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
 #EXTINF:-1,Киносвидание
@@ -75,6 +83,8 @@ http://37.99.5.234/btv/SWM/Kinosvidanie/Kinosvidanie_720p_3500kbps.m3u8
 http://37.99.5.234/btv/SWM/Kinosvidanie/Kinosvidanie_720p_3500kbps.m3u8
 #EXTINF:-1,Мужское кино
 https://sc.id-tv.kz/Mujskoe_kino_hd.m3u8
+#EXTINF:-1,Мужское кино
+https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
 #EXTINF:-1,Мужское кино
 https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
 #EXTINF:-1,Киноужас
@@ -103,6 +113,8 @@ http://194.146.190.241:4000/play/a02q/index.m3u8
 http://109.239.128.126:8080/kino_tv_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Film ХИТ1
 https://hls.myvideocontent.ru/hls/vipcinemahd/index.m3u8
+#EXTINF:-1,Film Box
+http://94.230.240.17:8080/film_box/index.m3u8
 #EXTINF:-1,Кинопоказ
 http://91.221.201.2:7006/play/a002/index.m3u8
 #EXTINF:-1,Комедийное
@@ -758,6 +770,8 @@ https://fireside.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f
 https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8
 
 
+#EXTINF:-1,KINO 18+
+https://autopilot.catcast.tv/content/40381/index.m3u8
 #EXTINF:-1,Русская ночь
 http://93.189.224.117:9030/russkayanoch?wowzasessionid=941057740302&time=1463063123262
 #EXTINF:-1,Brazzers TV
