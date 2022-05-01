@@ -50,20 +50,25 @@ http://74.102.118.117:8812/udp/127.0.0.1:5311
 #EXTINF:-1,TV1000 Русское кино
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
 #EXTINF:-1,Кинохит
-http://109.239.128.126:8080/kinohit/tracks-v1a1/mono.m3u8
+https://sc.id-tv.kz/Kinohit_hd.m3u8
 #EXTINF:-1,Наше новое кино
 http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
 #EXTINF:-1,Наше новое кино
 http://37.99.5.234/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
 #EXTINF:-1,Наше новое кино
 http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_720p_3500kbps.m3u8
-#EXTINF:1,Киномикс FHD
+#EXTINF:1,Киномикс
+https://sc.id-tv.kz/Kinomix_hd.m3u88
 #EXTINF:1,Кинопремьера
 https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
 #EXTINF:0,Кинокомедия
 http://87.247.44.26/btv/SWM/Kinokomedija/Kinokomedija_1080p_5000kbps.m3u8
 #EXTINF:-1,Киносемья
+https://sc.id-tv.kz/Kinosemiya_hd.m3u8
+#EXTINF:-1,Киносемья
 https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1,Киносвидание
+https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
 #EXTINF:-1,Киносвидание
 http://94.154.83.88:10000/kinosvidanie
 #EXTINF:-1,Киносвидание
@@ -71,9 +76,11 @@ http://37.99.5.234/btv/SWM/Kinosvidanie/Kinosvidanie_720p_3500kbps.m3u8
 #EXTINF:-1,Киносвидание
 http://37.99.5.234/btv/SWM/Kinosvidanie/Kinosvidanie_720p_3500kbps.m3u8
 #EXTINF:-1,Мужское кино
+https://sc.id-tv.kz/Mujskoe_kino_hd.m3u8
+#EXTINF:-1,Мужское кино
 https://sc.id-tv.kz/Mujskoe_kino_hd_38_39.m3u8
 #EXTINF:-1,Киноужас
-http://109.239.128.126:8080/kinouzhas/tracks-v2a1/mono.m3u8
+https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8
 #EXTINF:-1,Киноужас
 http://37.99.5.235:80/btv/SWM/KinoUzhas/KinoUzhas_576p_2000kbps.m3u8
 #EXTINF:-1,Киноужас
@@ -83,11 +90,15 @@ http://185.228.135.48:8080/tv_strashnoe_hd/index.m3u8
 #EXTINF:-1,Шокирующее
 http://185.228.135.48:8080/tv_shokiruushee_hd/index.m3u8
 #EXTINF:-1,Ужастик
-https://autopilot.catcast.tv/content/38896/index.m3u8
+https://v2.catcast.tv/content/38896/index.m3u8
 #EXTINF:-1,Киносерия
 http://37.99.5.234/btv/SWM/Kinoserija/Kinoserija_576p_2000kbps.m3u8
 #EXTINF:-1,Киносерия
 http://109.239.128.126:8080/kinoseria/tracks-v2a1/mono.m3u8
+#EXTINF:-1,Фантастика Sci-Fi
+https://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1,Фантастика Sci-Fi
+https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1,Кино ТВ
 http://194.146.190.241:4000/play/a02q/index.m3u8
 #EXTINF:-1,Кино ТВ
@@ -100,6 +111,10 @@ http://91.221.201.2:7006/play/a002/index.m3u8
 http://185.228.135.48:8080/tv_komediynoe_hd/index.m3u8
 #EXTINF:-1,Видеокассета
 http://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1,Cinema
+https://sc.id-tv.kz:443/Cinema_36_37.m3u8
+#EXTINF:-1,Cinema
+https://sc.id-tv.kz/Cinema_34_35.m3u8
 #EXTINF:-1,Cinema
 http://46.34.209.242:80/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
 #EXTINF:-1,Еврокино
