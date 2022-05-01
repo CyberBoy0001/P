@@ -32,9 +32,7 @@ http://46.34.209.243:80/btv/SWM/TNT4/TNT4_576p_2000kbps.m3u8
 #EXTINF:-1,Квартал ТВ
 http://iptv.prosto.tv:7000/ch65/video.m3u8
 #EXTINF:-1,TLC
-http://46.34.209.244:80/btv/SWM/tlc_hd/tlc_hd_720p_3500kbps.m3u8
-#EXTINF:-1,TLC
-http://46.34.209.244:80/btv/SWM/tlc_hd/tlc_hd_1080p_5000kbps.m3u8
+https://sc.id-tv.kz/TLCHD_34_35.m3u8
 #EXTINF:-1,TV1000
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
 #EXTINF:-1,TV1000
@@ -358,22 +356,18 @@ http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 #EXTINF:-1,РБК
 http://online-video.rbc.ru/online/rbctv_480p/index.m3u8
 
-#EXTINF:-1,Nickelodeon HD
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/223/index.m3u8
 #EXTINF:-1,Nickelodeon
-http://iptv.prosto.tv:7000/ch68/video.m3u8
-#EXTINF:-1,Nickelodeon
-http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/541/index.m3u8
+http://saveukraine.only4.tv/14106/video.m3u8?token=saveUkrain
 #EXTINF:-1,NickToons
 http://iptv.prosto.tv:7000/ch70/video.m3u8
 #EXTINF:-1,Nick Jr.
-http://iptv.prosto.tv:7000/ch69/video.m3u8
+http://saveukraine.only4.tv/814/video.m3u8?token=saveUkrain
 #EXTINF:-1,NIKI Kids
-http://iptv.prosto.tv:7000/ch71/video.m3u8
+http://saveukraine.only4.tv/5516/video.m3u8?token=saveUkrain
 #EXTINF:-1,NIKI Junior
-http://iptv.prosto.tv:7000/ch72/video.m3u8
+http://saveukraine.only4.tv/5515/video.m3u8?token=saveUkrain
 #EXTINF:-1,Cartoon Network
-http://iptv.prosto.tv:7000/ch207/video.m3u8
+http://saveukraine.only4.tv/802/video.m3u8?token=saveUkrain
 #EXTINF:-1,Мульт
 https://autopilot.catcast.tv/content/38850/index.m3u8
 #EXTINF:-1 ,Мультиландия
