@@ -24,6 +24,8 @@ http://sibiev54.amazzin.pw/iptv/2XBPNFMZKED9RN/744/index.m3u8
 #EXTINF:-1,НТВ Право
 http://sibiev54.amazzin.pw/iptv/2XBPNFMZKED9RN/743/index.m3u8
 #EXTINF:-1,ТНТ
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tnthd
+#EXTINF:-1,ТНТ
 https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
 #EXTINF:-1,ТНТ4
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
@@ -32,15 +34,11 @@ http://46.34.209.243:80/btv/SWM/TNT4/TNT4_576p_2000kbps.m3u8
 #EXTINF:-1,Квартал ТВ
 http://iptv.prosto.tv:7000/ch65/video.m3u8
 #EXTINF:-1,TLC
-https://sc.id-tv.kz/TLCHD_34_35.m3u8
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/301/stream.m3u8
 #EXTINF:-1,TV1000
-https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
-#EXTINF:-1,TV1000
-http://dmitry-tv.ml/hls/CH_TV1000HD.m3u8
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/311/stream.m3u8
 #EXTINF:-1,TV1000 action
-https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
-#EXTINF:-1,TV1000 action
-http://dmitry-tv.ml/hls/CH_TV1000ACTIONHD.m3u8
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/308/stream.m3u8
 #EXTINF:-1,TV 1000 World Kino
 http://iptv.prosto.tv:7000/ch48/video.m3u8
 #EXTINF:-1,TV1000 Русское кино
@@ -108,9 +106,7 @@ https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1,Фантастика Sci-Fi
 https://v2.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1,Кино ТВ
-http://194.146.190.241:4000/play/a02q/index.m3u8
-#EXTINF:-1,Кино ТВ
-http://109.239.128.126:8080/kino_tv_hd/tracks-v1a1/mono.m3u8
+http://195.26.83.96:7024/play/71
 #EXTINF:-1,Film ХИТ1
 https://hls.myvideocontent.ru/hls/vipcinemahd/index.m3u8
 #EXTINF:-1,Film Box
@@ -138,6 +134,14 @@ http://ua001.vivat.live/t-061f.1f9d.850c784cd529b228ea8eb06e0e97303f/hd/00537/8m
 
 Романтичное HD
 
+#EXTINF:-1,FAN
+http://94.230.240.17:8080/fan/index.m3u8
+#EXTINF:-1,КиноСат
+http://37.17.12.119:8907/play/a007
+#EXTINF:-1,Film Box
+http://94.230.240.17:8080/film_box/index.m3u8
+#EXTINF:-1,Ужастик
+https://autopilot.catcast.tv/content/38896/index.m3u8
 #EXTINF:-1,Кино UHD
 #EXTINF:-1,Paradox
 http://195.154.242.229/Paradox_HD/video.m3u8?token=MXjzqOlW50
@@ -157,11 +161,17 @@ http://94.230.240.17:8080/film_box/index.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Phoenix.m3u8
 
 #EXTINF:-1,VIP Premiere
-https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4001/stream.m3u8
+#EXTINF:-1,VIP Premiere
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/3980/stream.m3u8
 #EXTINF:-1,VIP Megahit
-https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4003/stream.m3u8
+#EXTINF:-1,VIP Megahit
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/3981/stream.m3u8
 #EXTINF:-1,VIP Comedy
-https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4000/stream.m3u8
+#EXTINF:-1,VIP Comedy
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/309/stream.m3u8
 #EXTINF:-1,VIP Serial
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
 
@@ -169,18 +179,26 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
 http://iptv.prosto.tv:7000/ch45/video.m3u8
 #EXTINF:-1,VIP Premiere
 http://188.113.190.12/201/video.m3u8
+#EXTINF:-1,VIP Premiere
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1,VIP Megahit
 http://iptv.prosto.tv:7000/ch43/video.m3u8
 #EXTINF:-1,VIP Megahit
 http://188.113.190.12/202/video.m3u8
 #EXTINF:-1,VIP Megahit
 http://zigfreed.ru/VC7/60.m3u8
+#EXTINF:-1,VIP Megahit
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1,VIP Comedy
 http://iptv.prosto.tv:7000/ch44/video.m3u8
 #EXTINF:-1,VIP Comedy
 http://188.113.190.12/203/video.m3u8
+#EXTINF:-1,VIP Comedy
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1,VIP Serial
-http://87.117.231.9/iptv/6CBBEEKZV5CG3E/2443/index.m3u8
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,VIP Serial
+http://94.229.250.73:8008/play/a003
 #EXTINF:-1,VIP Comedy
 http://zigfreed.ru/VC7/59.m3u8
 #EXTINF:-1,Fox
@@ -217,6 +235,12 @@ https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
 http://188.113.190.12/140/video.m3u8
 #EXTINF:-1,Paramount Channel
 http://85b60fa6.rostelekom.xyz/iptv/ZXWFUS85YY8F4S/9053/index.m3u8
+#EXTINF:-1,Paramount Channel
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4772/stream.m3u8
+#EXTINF:-1,Paramount Channel
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4616/stream.m3u8
+#EXTINF:-1,Paramount Comedy
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=paramount_comedy
 #EXTINF:-1,Paramount Comedy
 http://188.113.190.12/127/video.m3u8
 #EXTINF:-1,Paramount Comedy
@@ -369,9 +393,19 @@ http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 http://online-video.rbc.ru/online/rbctv_480p/index.m3u8
 
 #EXTINF:-1,Nickelodeon
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/278/stream.m3u8
+#EXTINF:-1,Nickelodeon
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=nickelodeon-hd
+#EXTINF:-1,Nickelodeon
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/280/stream.m3u8
+#EXTINF:-1,Nickelodeon
 http://saveukraine.only4.tv/14106/video.m3u8?token=saveUkrain
 #EXTINF:-1,NickToons
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/4773/stream.m3u8
+#EXTINF:-1,NickToons
 http://iptv.prosto.tv:7000/ch70/video.m3u8
+#EXTINF:-1,Nick Jr.
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/277/stream.m3u8
 #EXTINF:-1,Nick Jr.
 http://saveukraine.only4.tv/814/video.m3u8?token=saveUkrain
 #EXTINF:-1,NIKI Kids
@@ -423,6 +457,12 @@ http://185.228.135.48:8080/tv_eda_premium_hd/index.m3u8
 #EXTINF:-1,Travel Guid-TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 #EXTINF:-1,Discovery Channel
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discovery
+#EXTINF:-1,Discovery Channel
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/210/stream.m3u8
+#EXTINF:-1,Discovery Channel
+http://cdnua06.hls.tv/476/hls/98avsntbi7p3r6j4z1que0lcwgyo52fm/4709/stream.m3u8
+#EXTINF:-1,Discovery Channel
 http://46.34.209.244:80/btv/SWM/discovery_hd/discovery_hd_1080p_5000kbps.m3u8
 #EXTINF:-1,Discovery Channel
 http://46.34.209.244:80/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
@@ -431,7 +471,19 @@ http://80.76.245.198:12284/33
 #EXTINF:-1,Discovery Channel
 http://188.247.191.234/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
 #EXTINF:-1,Discovery Science
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
+#EXTINF:-1,Discovery Science
+http://cdnua06.hls.tv/476/hls/kng9fh2rw1qe8i5d7o3jzvuxalb64yms/206/stream.m3u8
+#EXTINF:-1,Discovery Science
 http://cloudcdn.tk:80/MersicJazvan/QblY8413/72691
+#EXTINF:-1,Investigation Discovery
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryxtra
+#EXTINF:-1,Investigation Discovery
+http://cdnua06.hls.tv/476/hls/k8z9njp47a3bl0dmx2frqw5ve1uyiost/254/stream.m3u8
+#EXTINF:-1,Animal Planet
+http://cdnua06.hls.tv/476/hls/ng3qtzjs6mvy8rolf0ce9h41kix2p5ab/174/stream.m3u8
+#EXTINF:-1,Animal Planet
+http://cdnua06.hls.tv/476/hls/lofksujyxti7d18v52ge4qpcwhrmb9z3/4706/stream.m3u8
 #EXTINF:-1,Animal Planet
 http://46.34.209.244:80/btv/SWM/animal_hd/animal_hd_1080p_5000kbps.m3u8
 #EXTINF:-1,Animal Planet
@@ -441,17 +493,23 @@ http://188.113.190.12/173/video.m3u8
 #EXTINF:0,Da Vinci
 https://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1,Viasat Explore
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/322/stream.m3u8
+#EXTINF:-1,Viasat Explore
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
 #EXTINF:-1,Viasat Explore
 http://cloudcdn.tk:80/MersicJazvan/QblY8413/11986
 #EXTINF:-1,Viasat Explore
 http://188.113.190.12/32/video.m3u8
 #EXTINF:-1,Viasat History
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/327/stream.m3u8
+#EXTINF:-1,Viasat History
 https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
 #EXTINF:-1,Viasat History
 http://188.113.190.12/33/video.m3u8
 #EXTINF:-1,Viasat History
 http://91.185.3.218:4000/play/323
+#EXTINF:-1,Viasat Nature
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/328/stream.m3u8
 #EXTINF:-1,Viasat Nature
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
 #EXTINF:-1,Viasat Nature
@@ -460,6 +518,8 @@ http://188.113.190.12/28/video.m3u8
 http://91.185.3.218:4000/play/304
 #EXTINF:-1,Viasat Nature
 http://cloudcdn.tk:80/MersicJazvan/QblY8413/12284
+#EXTINF:-1,History
+http://cdnua06.hls.tv/476/hls/gy8vpi1hqu26tse7nx3rfmdk4wjc950a/244/stream.m3u8
 #EXTINF:-1,History
 http://46.34.209.244:80/btv/SWM/HistoryHD/HistoryHD_1080p_5000kbps.m3u8
 #EXTINF:-1,History
@@ -669,6 +729,10 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1,Камин
 http://v2.catcast.me/content/36334/index.m3u8
 #EXTINF:-1,DTX
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverydtx
+#EXTINF:-1,DTX
+https://livetv.mylifeisgood.ml/channels/discoverydtx
+#EXTINF:-1,DTX
 http://live02-cdn.tv.ti.ru:80/dtv/id204_NBN_SG--DiscoveryWorld/03/plst.m3u8
 #EXTINF:-1,TV BRICS Russia
 https://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
@@ -680,16 +744,24 @@ http://live02-cdn.tv.ti.ru:80/dtv/id144_NBN_SG--Zhivi/02/plst.m3u8
 http://live02-cdn.tv.ti.ru:80/dtv/id699_NBN_SG--otkritij_mir/03/plst.m3u8
 #EXTINF:-1,Загородная Жизнь
 http://live02-cdn.tv.ti.ru:80/dtv/id371_NBN_SG--Zagorodnaya_zhizn/01/plst.m3u8
-#EXTINF:-1 ,HD Fashion & Lifestyle
+#EXTINF:-1,FightBox
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/230/stream.m3u8
+#EXTINF:-1,Fast & Fun Box
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/229/stream.m3u8
+#EXTINF:-1,HD Fashion & Lifestyle
 http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
 #EXTINF:-1,Fashion & LifeStyle
 http://iptv.prosto.tv:7000/ch145/video.m3u8
 #EXTINF:-1 ,HD Fashion & Lifestyle [FHD]
 http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1,Fashion TV
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/226/stream.m3u8
+#EXTINF:-1,Fashion TV
 http://live02-cdn.tv.ti.ru:80/dtv/id713_NBN_SG--fashiontv/03/plst.m3u8
 #EXTINF:-1,Fashion TV
 http://iptv.prosto.tv:7000/ch143/video.m3u8
+#EXTINF:-1,FashionBox
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/228/stream.m3u8
 #EXTINF:-1,FashionBox HD
 http://iptv.prosto.tv:7000/ch144/video.m3u8
 #EXTINF:-1,HDFashion
