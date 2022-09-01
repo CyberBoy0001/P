@@ -69,8 +69,6 @@ http://37.17.12.119:8907/play/a007
 #EXTINF:-1,VIP Premiere
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1,VIP Megahit
-http://iptv.prosto.tv:7000/ch43/video.m3u8
-#EXTINF:-1,VIP Megahit
 https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1,VIP Comedy
 http://iptv.prosto.tv:7000/ch44/video.m3u8
