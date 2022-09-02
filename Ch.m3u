@@ -13,7 +13,8 @@ https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,107
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
 #EXTINF:-1,Квартал ТВ
 http://iptv.prosto.tv:7000/ch65/video.m3u8
-
+#EXTINF:-1,TLC
+https://sc.id-tv.kz/TLCHD_34_35.m3u8
 TV1000
 
 TV1000 action
@@ -21,24 +22,36 @@ TV1000 action
 #EXTINF:-1,TV 1000 World Kino
 http://iptv.prosto.tv:7000/ch48/video.m3u8
 
-Кинохит
-
+#EXTINF:-1,Кинохит
+https://sc.id-tv.kz/Kinohit_hd.m3u8
+#EXTINF:-1,Кинохит
+https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
 Киномикс
 
-Кинопремьера
-
-Киносемья
-
-Кинокомедия
-
-Киносвидание
+#EXTINF:-1,Кинопремьера
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1,Киносемья
+https://sc.id-tv.kz/Kinosemiya_hd.m3u8
+#EXTINF:-1,Киносемья
+https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1,Киноужас
+https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8
+#EXTINF:-1,Кинокомедия
+https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+#EXTINF:-1,Киносвидание
+https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
+#EXTINF:-1,Киносвидание
+https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 
 Мужское кино
 
-Мужское кино
-
+#EXTINF:-1,Мужское кино
+https://sc.id-tv.kz/Mujskoe_kino_hd.m3u8
+#EXTINF:-1,Мужское кино
+https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
 Киноужас
-
+#EXTINF:-1,Киноклуб
+http://autopilot.catcast.tv/content/39005/index.m3u8
 #EXTINF:-1,Ужастик
 https://v2.catcast.tv/content/38896/index.m3u8
 #EXTINF:-1,Ужастик
@@ -84,7 +97,8 @@ http://iptv.prosto.tv:7000/ch50/video.m3u8
 http://iptv.prosto.tv:7000/ch60/video.m3u8
 #EXTINF:-1,НТМ
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-
+#EXTINF:-1,Кинолюкс
+http://v2.catcast.tv/content/38821/index.m3u8
 AMC
 
 #EXTINF:-1 ,43
@@ -129,7 +143,7 @@ http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
 
 #EXTINF:-1,Nickelodeon
-http://saveukraine.only4.tv/14106/video.m3u8?token=saveUkrain
+https://sc.id-tv.kz:443/Nickelodeon_34_35.m3u8
 #EXTINF:-1,NickToons
 http://iptv.prosto.tv:7000/ch70/video.m3u8
 #EXTINF:-1,Nick Jr.
