@@ -15,10 +15,10 @@ https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d1
 http://iptv.prosto.tv:7000/ch65/video.m3u8
 #EXTINF:-1,TLC
 https://sc.id-tv.kz/TLCHD_34_35.m3u8
-TV1000
-
-TV1000 action
-
+#EXTINF:-1,TV1000
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1,TV1000 action
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1,TV 1000 World Kino
 http://iptv.prosto.tv:7000/ch48/video.m3u8
 
