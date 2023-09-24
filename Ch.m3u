@@ -13,23 +13,9 @@ http://iptv.prosto.tv:7000/ch65/video.m3u8
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1,TV1000 action
 https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1,TV 1000 World Kino
-http://iptv.prosto.tv:7000/ch48/video.m3u8
 
-#EXTINF:-1,Кинопоказ
-http://flu.ttk.mx:9090/kinopokaz/index.m3u8?token=orh6o
-
-#EXTINF:-1,Киноклуб
-http://autopilot.catcast.tv/content/39005/index.m3u8
-#EXTINF:-1,Ужастик
-https://autopilot.catcast.tv/content/38896/index.m3u8
-#EXTINF:-1,Ужастик
-https://autopilot.catcast.tv/content/38896/index.m3u8
-#EXTINF:-1,Фантастика Sci-Fi
-https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1,Film Box
 http://94.230.240.17:8080/film_box/index.m3u8
-
 #EXTINF:-1,FAN
 http://94.230.240.17:8080/fan/index.m3u8
 #EXTINF:-1,VIP Premiere
@@ -48,7 +34,6 @@ http://iptv.prosto.tv:7000/ch50/video.m3u8
 http://iptv.prosto.tv:7000/ch60/video.m3u8
 #EXTINF:-1,НТМ
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-AMC
 
 #EXTINF:-1 ,43
 http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
