@@ -1,20 +1,14 @@
 #EXTM3U
-#EXTINF:-1,Первый канал "Евразия"
-http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 #EXTINF:-1,Россия 24
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1,Россия РТР
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,ТНТ
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tnthd
 #EXTINF:-1,ТНТ
 https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
 #EXTINF:-1,ТНТ4
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
 #EXTINF:-1,Квартал ТВ
 http://iptv.prosto.tv:7000/ch65/video.m3u8
-#EXTINF:-1,TLC
-https://sc.id-tv.kz/TLCHD_34_35.m3u8
 #EXTINF:-1,TV1000
 https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1,TV1000 action
@@ -22,50 +16,17 @@ https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1,TV 1000 World Kino
 http://iptv.prosto.tv:7000/ch48/video.m3u8
 
-#EXTINF:-1,Кинохит
-https://sc.id-tv.kz/Kinohit_hd.m3u8
-#EXTINF:-1,Кинохит
-https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
-Киномикс
-
-#EXTINF:-1,Кинопремьера
-https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
-#EXTINF:-1,Киносемья
-https://sc.id-tv.kz/Kinosemiya_hd.m3u8
-#EXTINF:-1,Киносемья
-https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
-#EXTINF:-1,Киноужас
-https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8
-#EXTINF:-1,Кинокомедия
-https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
-#EXTINF:-1,Киносвидание
-https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
-#EXTINF:-1,Киносвидание
-https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
 #EXTINF:-1,Кинопоказ
 http://flu.ttk.mx:9090/kinopokaz/index.m3u8?token=orh6o
 
-Мужское кино
-
-#EXTINF:-1,Мужское кино
-https://sc.id-tv.kz/Mujskoe_kino_hd.m3u8
-#EXTINF:-1,Мужское кино
-https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
-Киноужас
 #EXTINF:-1,Киноклуб
 http://autopilot.catcast.tv/content/39005/index.m3u8
-#EXTINF:-1,Ужастик
-https://v2.catcast.tv/content/38896/index.m3u8
 #EXTINF:-1,Ужастик
 https://autopilot.catcast.tv/content/38896/index.m3u8
 #EXTINF:-1,Ужастик
 https://autopilot.catcast.tv/content/38896/index.m3u8
 #EXTINF:-1,Фантастика Sci-Fi
 https://autopilot.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1,Фантастика Sci-Fi
-https://v2.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1,Кино ТВ
-http://195.26.83.96:7024/play/71
 #EXTINF:-1,Film Box
 http://94.230.240.17:8080/film_box/index.m3u8
 
@@ -79,8 +40,6 @@ Cinema
 
 #EXTINF:-1,FAN
 http://94.230.240.17:8080/fan/index.m3u8
-#EXTINF:-1,КиноСат
-http://37.17.12.119:8907/play/a007
 #EXTINF:-1,VIP Premiere
 https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1,VIP Megahit
@@ -97,8 +56,6 @@ http://iptv.prosto.tv:7000/ch50/video.m3u8
 http://iptv.prosto.tv:7000/ch60/video.m3u8
 #EXTINF:-1,НТМ
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1,Кинолюкс
-http://v2.catcast.tv/content/38821/index.m3u8
 AMC
 
 #EXTINF:-1 ,43
@@ -127,8 +84,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1,Мир Белогорья
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:-1 ,Travel Guide TV
-http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 #EXTINF:-1,Миллет
 http://live.trkmillet.ru/millet/index.m3u8
 #EXTINF:-1,РБК
@@ -142,8 +97,6 @@ http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 #EXTINF:-1,RBK
 http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
 
-#EXTINF:-1,Nickelodeon
-https://sc.id-tv.kz:443/Nickelodeon_34_35.m3u8
 #EXTINF:-1,NickToons
 http://iptv.prosto.tv:7000/ch70/video.m3u8
 #EXTINF:-1,Nick Jr.
@@ -160,18 +113,6 @@ http://autopilot.catcast.tv/content/38144/index.m3u8
 http://80.89.196.34:8085/travel/index.m3u8
 #EXTINF:-1,Da Vinchi Kids
 http://iptv.prosto.tv:7000/ch78/video.m3u8
-#EXTINF:-1,Travel Guid-TV
-http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
-#EXTINF:-1,Discovery Channel
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discovery
-#EXTINF:-1,Discovery Science
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
-#EXTINF:-1,Investigation Discovery
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryxtra
-#EXTINF:-1,DTX
-http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverydtx
-#EXTINF:-1,DTX
-https://livetv.mylifeisgood.ml/channels/discoverydtx
 #EXTINF:-1,World
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1,Sochi Live
@@ -186,18 +127,12 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1,100% News
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1,Luxury
-http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1,Brics TV
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
 #EXTINF:0,Univer TV
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-#EXTINF:-1,Министерство идей
-http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1,НТМ
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1,Губерния Самарская
-http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8
 #EXTINF:-1,МТВ
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1,Новый мир
@@ -224,14 +159,10 @@ http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
 #EXTINF:-1,Brodilo TV
 http://brodilo.tv/channel.php
-#EXTINF:-1,UA TV
-http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1,Первый Городской (Одесса)
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 #EXTINF:-1,Мордовия 24
 https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
-#EXTINF:-1,musikcolabfm
-http://hls.goodgame.ru:80/hls/163343.m3u8
 #EXTINF:-1,Первый Музыкальный BY
 http://rtmp.one.by:1200
 #EXTINF:-1,Первый Музыкальный BY
